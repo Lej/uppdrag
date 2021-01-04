@@ -102,28 +102,48 @@ function Uppdrag:ShowGui()
 
 end
 
+function Uppdrag:FollowerFrameToString(board, followerFrame)
+  local puck = board:GetFrameByBoardIndex(followerFrame.boardIndex)
+  local health = puck:GetHealth()
+  return "index: " .. followerFrame.boardIndex .. "\n"
+    .. "name: " .. followerFrame.info.name .. "\n"
+    .. "level: " .. followerFrame.info.level .. "\n"
+    .. "health: " .. health
+end
+
+function Uppdrag:EnemyFrameToString(enemyFrame)
+  return "index: " .. enemyFrame.boardIndex .. "\n"
+  .. "name: " .. enemyFrame.name .. "\n"
+  .. "health: " .. enemyFrame.HealthBar.health
+end
+
+function Uppdrag:ParticipantsToString(board)
+
+  local text = ""
+
+  local followerFrames = self:GetSortedFollowerFrames(board)
+  for i, followerFrame in ipairs(followerFrames) do
+    text = text .. self:FollowerFrameToString(board, followerFrame) .. "\n\n"
+  end
+
+  local enemyFrames = self:GetSortedEnemyFrames(board)
+  for i, enemyFrame in ipairs(enemyFrames) do
+    text = text .. self:EnemyFrameToString(enemyFrame) .. "\n\n"
+  end
+
+  return text
+end
+
 function Uppdrag:Hook()
 
-  -- Catch follower status at start of completed mission
+  -- Catch participant status at start of completed mission
   self:SecureHook(_G.CovenantMissionFrame.MissionComplete.RewardsScreen, "PopulateFollowerInfo", function(_, followerInfo, missionInfo, winner)
 
     self:ClearCombatLog()
 
-    for guid, info in pairs(followerInfo) do
-      info.guid = guid
-    end
-
-    local sorted = self:SortBy(followerInfo, function(x) return x.boardIndex end)
-
-    for i, info in ipairs(sorted) do
-      self:AddCombatLogLine("index: " .. info.boardIndex)
-      self:AddCombatLogLine("guid: " .. info.guid)
-      self:AddCombatLogLine("name: " .. info.name)
-      self:AddCombatLogLine("level: " .. info.level)
-      self:AddCombatLogLine("health: " .. info.health)
-      self:AddCombatLogLine("")
-    end
-
+    local board = _G.CovenantMissionFrame.MissionComplete.Board
+    local text = self:ParticipantsToString(board)
+    self:AddCombatLogLine(text)
   end)
 
   -- Catch mission combat log messages
@@ -131,72 +151,20 @@ function Uppdrag:Hook()
     self:AddCombatLogLine(logEntry)
   end)
 
-  -- Catch follower status at end of completed mission
+  -- Catch participant status at end of completed mission
   self:SecureHook(_G.CombatLog, "AddVictoryState", function(_, winState)
 
     local board = _G.CovenantMissionFrame.MissionComplete.Board
-    local followerFrames = self:GetSortedFollowerFrames(board, function(x) return x.info.boardIndex end)
-
-    for i, followerFrame in ipairs(followerFrames) do
-      local puck = board:GetFrameByBoardIndex(followerFrame.info.boardIndex)
-      local health = puck:GetHealth()
-      self:AddCombatLogLine("")
-      self:AddCombatLogLine("index: " .. followerFrame.info.boardIndex)
-      self:AddCombatLogLine("guid: " .. followerFrame.followerGUID)
-      self:AddCombatLogLine("name: " .. followerFrame.info.name)
-      self:AddCombatLogLine("health: " .. health)
-    end
-
+    local text = self:ParticipantsToString(board)
+    self:AddCombatLogLine(text)
   end)
 
-  -- Catch followers added to missions
+  -- Catch participant status when follower added to mission
   self:SecureHook(_G.CovenantMissionFrame, "AssignFollowerToMission", function(frame, info)
 
-    local board = _G.CovenantMissionFrame:GetMissionPage().Board
-    local followerFrames = self:GetSortedFollowerFrames(board, function(x) return x.boardIndex end)
-
-    local text = ""
-    for i, followerFrame in ipairs(followerFrames) do
-      if (followerFrame.info) then
-        text = text .. "index: " .. followerFrame.boardIndex .. "\n"
-          .. "guid: " .. followerFrame.followerGUID .. "\n"
-          .. "name: " .. followerFrame.name .. "\n"
-          .. "level: " .. followerFrame.info.level .. "\n"
-          .. "health: " .. followerFrame.info.autoCombatantStats.currentHealth .. "\n"
-          .. "\n"
-      end
-    end
-
-    local enemyFrames = self:GetSortedEnemyFrames(board, function(x) return x.boardIndex end)
-    --dump(enemyFrames)
-
-    for i, enemyFrame in ipairs(enemyFrames) do
-      if (enemyFrame.name) then
-
-        self:Inspect(enemyFrame)
-
-        --dump("boardIndex="..i)
-        --dump(enemyFrame)
-
-        --for k, v in pairs(enemyFrame) do
-        --  dump(k, v)
-        --end
-
-        --dump("apa")
-
-        text = text .. "index: " .. enemyFrame.boardIndex .. "\n"
-          --.. "guid: " .. enemyFrame.followerGUID .. "\n"
-          .. "name: " .. enemyFrame.name .. "\n"
-          --.. "level: " .. followerFrame.info.level .. "\n"
-          .. "health: " .. enemyFrame.HealthBar.health .. "\n"
-          .. "\n"
-
-
-      end
-    end
-
+    local board = _G.CovenantMissionFrame.MissionTab.MissionPage.Board
+    local text = self:ParticipantsToString(board)
     self:SetCurrentMission(text)
-
   end)
 end
 
@@ -266,22 +234,26 @@ function Uppdrag:GARRISON_FOLLOWER_LIST_UPDATE(...)
   self:Debug("GARRISON_FOLLOWER_LIST_UPDATE")
 end
 
-function Uppdrag:GetSortedEnemyFrames(board, boardIndexSelector)
+function Uppdrag:GetSortedEnemyFrames(board)
   local enemyFrames = { }
   for enemyFrame in board:EnumerateEnemies() do
-    table.insert(enemyFrames, enemyFrame)
+    if (enemyFrame:IsShown()) then
+      table.insert(enemyFrames, enemyFrame)
+    end
   end
 
-  return self:SortBy(enemyFrames, boardIndexSelector)
+  return self:SortBy(enemyFrames, function(x) return x.boardIndex end)
 end
 
-function Uppdrag:GetSortedFollowerFrames(board, boardIndexSelector)
+function Uppdrag:GetSortedFollowerFrames(board)
   local followerFrames = { }
   for followerFrame in board:EnumerateFollowers() do
+    if (followerFrame.info) then
       table.insert(followerFrames, followerFrame)
+    end
   end
 
-  return self:SortBy(followerFrames, boardIndexSelector)
+  return self:SortBy(followerFrames, function(x) return x.boardIndex end)
 end
 
 function Uppdrag:SortBy(items, keySelector)
@@ -296,9 +268,7 @@ function Uppdrag:SortBy(items, keySelector)
 
   local sorted = { }
   for i, key in ipairs(keys) do
-     print(i)
      local item = keyToItem[key]
-     print(item)
      table.insert(sorted, item)
   end
   return sorted
@@ -370,7 +340,7 @@ function Uppdrag:SerializeRecursive(variable, level, paths, path, output)
      if (type(variable) == "string") then
         return "\"" .. variable .. "\""
      end
-     return variable
+     return tostring(variable)
   end
 
   local function Indent(level)
