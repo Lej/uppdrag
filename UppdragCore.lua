@@ -151,8 +151,9 @@ function Uppdrag:Hook()
 
   -- Catch followers added to missions
   self:SecureHook(_G.CovenantMissionFrame, "AssignFollowerToMission", function(frame, info)
-    local missionPage = _G.CovenantMissionFrame:GetMissionPage()
-    local followerFrames = self:GetSortedFollowerFrames(missionPage.Board, function(x) return x.boardIndex end)
+
+    local board = _G.CovenantMissionFrame:GetMissionPage().Board
+    local followerFrames = self:GetSortedFollowerFrames(board, function(x) return x.boardIndex end)
 
     local text = ""
     for i, followerFrame in ipairs(followerFrames) do
@@ -163,6 +164,34 @@ function Uppdrag:Hook()
           .. "level: " .. followerFrame.info.level .. "\n"
           .. "health: " .. followerFrame.info.autoCombatantStats.currentHealth .. "\n"
           .. "\n"
+      end
+    end
+
+    local enemyFrames = self:GetSortedEnemyFrames(board, function(x) return x.boardIndex end)
+    --dump(enemyFrames)
+
+    for i, enemyFrame in ipairs(enemyFrames) do
+      if (enemyFrame.name) then
+
+        self:Inspect(enemyFrame)
+
+        --dump("boardIndex="..i)
+        --dump(enemyFrame)
+
+        --for k, v in pairs(enemyFrame) do
+        --  dump(k, v)
+        --end
+
+        --dump("apa")
+
+        text = text .. "index: " .. enemyFrame.boardIndex .. "\n"
+          --.. "guid: " .. enemyFrame.followerGUID .. "\n"
+          .. "name: " .. enemyFrame.name .. "\n"
+          --.. "level: " .. followerFrame.info.level .. "\n"
+          .. "health: " .. enemyFrame.HealthBar.health .. "\n"
+          .. "\n"
+
+
       end
     end
 
@@ -237,6 +266,15 @@ function Uppdrag:GARRISON_FOLLOWER_LIST_UPDATE(...)
   self:Debug("GARRISON_FOLLOWER_LIST_UPDATE")
 end
 
+function Uppdrag:GetSortedEnemyFrames(board, boardIndexSelector)
+  local enemyFrames = { }
+  for enemyFrame in board:EnumerateEnemies() do
+    table.insert(enemyFrames, enemyFrame)
+  end
+
+  return self:SortBy(enemyFrames, boardIndexSelector)
+end
+
 function Uppdrag:GetSortedFollowerFrames(board, boardIndexSelector)
   local followerFrames = { }
   for followerFrame in board:EnumerateFollowers() do
@@ -269,5 +307,116 @@ end
 function Uppdrag:Debug(...)
   if (Debug) then
     self:Print(...)
+  end
+end
+
+function Uppdrag:Inspect(...)
+
+  local frame = AceGui:Create("Frame")
+  --frame:Hide()
+  frame:SetTitle("Inspect")
+  frame:SetCallback("OnClose", function(widget) AceGui:Release(widget) end)
+  --frame:SetPoint("TOPRIGHT", _G.CovenantMissionFrame, "TOPLEFT", -7, 7)
+  frame:SetWidth(600)
+  frame:SetHeight(800)
+  frame:SetLayout("Fill")
+  -- Hide bottom status
+  frame.statustext:Hide()
+  frame.statustext:GetParent():Hide()
+  -- Hide close button
+  --local children = { frame.frame:GetChildren() }
+  --children[1]:Hide()
+
+  local editBox = AceGui:Create("MultiLineEditBox")
+  editBox.editBox:SetMaxBytes(0)
+  editBox:SetMaxLetters(0)
+  editBox:SetLabel("")
+  --editBox:SetNumLines(38)
+  editBox:DisableButton(true)
+
+  frame:AddChild(editBox)
+
+  local serialized = self:Serialize(...)
+  editBox:SetText(serialized)
+
+end
+
+function Uppdrag:Serialize(...)
+  local args = {...}
+  local output = { }
+  for i, v in ipairs(args) do
+     local prettyKey = "[" .. tostring(i) .. "]"
+     table.insert(output, prettyKey .. " = ")
+     self:SerializeRecursive(v, 0, { }, prettyKey, output)
+     if (i < #args) then
+        table.insert(output, ",\n")
+     end
+  end
+  return table.concat(output, "");
+end
+
+function Uppdrag:SerializeRecursive(variable, level, paths, path, output)
+
+  local function Append(output, ...)
+     local text = ""
+     local args = {...}
+     for i, v in ipairs(args) do
+        text = text .. tostring(v)
+     end
+     table.insert(output, text)
+  end
+
+  local function Quote(variable)
+     if (type(variable) == "string") then
+        return "\"" .. variable .. "\""
+     end
+     return variable
+  end
+
+  local function Indent(level)
+     return string.rep(' ', level)
+  end
+
+  local function GetOrAddPath(paths, curPath, curTable)
+     local prevPath = paths[curTable]
+     if (prevPath == nil) then
+        paths[curTable] = curPath
+     end
+     return prevPath
+  end
+
+  local variableType = type(variable)
+
+  if (variableType == "boolean" or variableType == "number" or variableType == "string") then
+     Append(output, Quote(variable))
+  elseif (variableType == "table") then
+
+     local prevPath = GetOrAddPath(paths, path, variable)
+
+     if (prevPath ~= nil) then
+        Append(output, prevPath)
+     else
+        Append(output, "{\n")
+        local key = next(variable, nil)
+        while (key ~= nil) do
+
+           local prettyKey = "[" .. Quote(key) .. "]"
+           Append(output, Indent(level + 1), prettyKey ," = ")
+
+           local value = variable[key]
+           local nextPath = path .. "." .. prettyKey
+           self:SerializeRecursive(value, level + 1, paths, nextPath, output)
+
+           local nextKey = next(variable, key)
+           if (nextKey ~= nil) then
+              Append(output, ",\n")
+           end
+
+           key = nextKey
+        end
+        Append(output, "\n", Indent(level), "}")
+     end
+  else
+      Append(output, "<", variableType, ">")
   end
 end

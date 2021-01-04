@@ -5,7 +5,7 @@
           "type": "lua",
           "request": "launch",
           "name": "Launch",
-          "program": "${workspaceFolder}/hello-world.lua"
+          "program": "${workspaceFolder}/UppdragDebug.lua"
       }
   ]
 }
