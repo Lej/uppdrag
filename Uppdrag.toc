@@ -14,4 +14,6 @@ libs\AceGUI-3.0\AceGUI-3.0.xml
 libs\AceHook-3.0\AceHook-3.0.xml
 libs\AceSerializer-3.0\AceSerializer-3.0.xml
 
-UppdragCore.lua
+src\core.lua
+src\parser.lua
+src\serializer.lua

@@ -105,30 +105,32 @@ end
 function Uppdrag:FollowerFrameToString(board, followerFrame)
   local puck = board:GetFrameByBoardIndex(followerFrame.boardIndex)
   local health = puck:GetHealth()
-  return "index: " .. followerFrame.boardIndex .. "\n"
-    .. "name: " .. followerFrame.info.name .. "\n"
-    .. "level: " .. followerFrame.info.level .. "\n"
-    .. "health: " .. health
+  return "## " .. followerFrame.boardIndex .. "\n"
+    .. "### index: " .. followerFrame.boardIndex .. "\n"
+    .. "### name: " .. followerFrame.info.name .. "\n"
+    .. "### level: " .. followerFrame.info.level .. "\n"
+    .. "### health: " .. health
 end
 
 function Uppdrag:EnemyFrameToString(enemyFrame)
-  return "index: " .. enemyFrame.boardIndex .. "\n"
-  .. "name: " .. enemyFrame.name .. "\n"
-  .. "health: " .. enemyFrame.HealthBar.health
+  return "## " .. enemyFrame.boardIndex .. "\n"
+    .. "### index: " .. enemyFrame.boardIndex .. "\n"
+    .. "### name: " .. enemyFrame.name .. "\n"
+    .. "### health: " .. enemyFrame.HealthBar.health
 end
 
-function Uppdrag:ParticipantsToString(board)
+function Uppdrag:UnitsToString(board, variableName)
 
-  local text = ""
+  local text = variableName .. "\n"
 
   local followerFrames = self:GetSortedFollowerFrames(board)
   for i, followerFrame in ipairs(followerFrames) do
-    text = text .. self:FollowerFrameToString(board, followerFrame) .. "\n\n"
+    text = text .. self:FollowerFrameToString(board, followerFrame) .. "\n"
   end
 
   local enemyFrames = self:GetSortedEnemyFrames(board)
   for i, enemyFrame in ipairs(enemyFrames) do
-    text = text .. self:EnemyFrameToString(enemyFrame) .. "\n\n"
+    text = text .. self:EnemyFrameToString(enemyFrame)
   end
 
   return text
@@ -136,34 +138,42 @@ end
 
 function Uppdrag:Hook()
 
-  -- Catch participant status at start of completed mission
+  -- Catch unit status at start of completed mission
   self:SecureHook(_G.CovenantMissionFrame.MissionComplete.RewardsScreen, "PopulateFollowerInfo", function(_, followerInfo, missionInfo, winner)
 
+    --self:Inspect(_G.CovenantMissionFrame.MissionComplete.currentMission)
     self:ClearCombatLog()
 
+    local mission = _G.CovenantMissionFrame.MissionComplete.currentMission
+    self:AddCombatLogLine("# mission")
+    self:AddCombatLogLine("## name: " .. mission.name)
+    self:AddCombatLogLine("## level: " .. mission.missionScalar)
+
     local board = _G.CovenantMissionFrame.MissionComplete.Board
-    local text = self:ParticipantsToString(board)
+    local text = self:UnitsToString(board, "# unitsPre")
     self:AddCombatLogLine(text)
+
+    self:AddCombatLogLine("# combatLog")
   end)
 
   -- Catch mission combat log messages
   self:SecureHook(_G.CombatLog.CombatLogMessageFrame, "AddMessage", function(_, logEntry)
-    self:AddCombatLogLine(logEntry)
+    self:AddCombatLogLine("+ " .. logEntry)
   end)
 
-  -- Catch participant status at end of completed mission
+  -- Catch unit status at end of completed mission
   self:SecureHook(_G.CombatLog, "AddVictoryState", function(_, winState)
 
     local board = _G.CovenantMissionFrame.MissionComplete.Board
-    local text = self:ParticipantsToString(board)
+    local text = self:UnitsToString(board, "# unitsPost")
     self:AddCombatLogLine(text)
   end)
 
-  -- Catch participant status when follower added to mission
+  -- Catch unit status when follower added to mission
   self:SecureHook(_G.CovenantMissionFrame, "AssignFollowerToMission", function(frame, info)
 
     local board = _G.CovenantMissionFrame.MissionTab.MissionPage.Board
-    local text = self:ParticipantsToString(board)
+    local text = self:UnitsToString(board, "# unitsPre")
     self:SetCurrentMission(text)
   end)
 end
@@ -306,87 +316,7 @@ function Uppdrag:Inspect(...)
 
   frame:AddChild(editBox)
 
-  local serialized = self:Serialize(...)
+  local serialized = self:GetModule("Serializer"):Serialize(...)
   editBox:SetText(serialized)
 
-end
-
-function Uppdrag:Serialize(...)
-  local args = {...}
-  local output = { }
-  for i, v in ipairs(args) do
-     local prettyKey = "[" .. tostring(i) .. "]"
-     table.insert(output, prettyKey .. " = ")
-     self:SerializeRecursive(v, 0, { }, prettyKey, output)
-     if (i < #args) then
-        table.insert(output, ",\n")
-     end
-  end
-  return table.concat(output, "");
-end
-
-function Uppdrag:SerializeRecursive(variable, level, paths, path, output)
-
-  local function Append(output, ...)
-     local text = ""
-     local args = {...}
-     for i, v in ipairs(args) do
-        text = text .. tostring(v)
-     end
-     table.insert(output, text)
-  end
-
-  local function Quote(variable)
-     if (type(variable) == "string") then
-        return "\"" .. variable .. "\""
-     end
-     return tostring(variable)
-  end
-
-  local function Indent(level)
-     return string.rep(' ', level)
-  end
-
-  local function GetOrAddPath(paths, curPath, curTable)
-     local prevPath = paths[curTable]
-     if (prevPath == nil) then
-        paths[curTable] = curPath
-     end
-     return prevPath
-  end
-
-  local variableType = type(variable)
-
-  if (variableType == "boolean" or variableType == "number" or variableType == "string") then
-     Append(output, Quote(variable))
-  elseif (variableType == "table") then
-
-     local prevPath = GetOrAddPath(paths, path, variable)
-
-     if (prevPath ~= nil) then
-        Append(output, prevPath)
-     else
-        Append(output, "{\n")
-        local key = next(variable, nil)
-        while (key ~= nil) do
-
-           local prettyKey = "[" .. Quote(key) .. "]"
-           Append(output, Indent(level + 1), prettyKey ," = ")
-
-           local value = variable[key]
-           local nextPath = path .. "." .. prettyKey
-           self:SerializeRecursive(value, level + 1, paths, nextPath, output)
-
-           local nextKey = next(variable, key)
-           if (nextKey ~= nil) then
-              Append(output, ",\n")
-           end
-
-           key = nextKey
-        end
-        Append(output, "\n", Indent(level), "}")
-     end
-  else
-      Append(output, "<", variableType, ">")
-  end
 end

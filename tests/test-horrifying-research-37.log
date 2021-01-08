@@ -1,0 +1,384 @@
+# mission
+## name: Horrifying Research
+## level: 37
+# unitsPre
+## 0
+### index: 0
+### name: Ardenweald Trapper
+### level: 34
+### health: 1320
+## 1
+### index: 1
+### name: Ardenweald Trapper
+### level: 34
+### health: 1320
+## 2
+### index: 2
+### name: Ardenweald Trapper
+### level: 34
+### health: 1320
+## 3
+### index: 3
+### name: Croman
+### level: 16
+### health: 650
+## 4
+### index: 4
+### name: Ardenweald Trapper
+### level: 34
+### health: 1320
+## 5
+### index: 5
+### name: Tempted Scholar
+### health: 2240## 8
+### index: 8
+### name: Tempted Scholar
+### health: 2240## 10
+### index: 10
+### name: Deviant Scholar
+### health: 1940## 11
+### index: 11
+### name: Deviant Scholar
+### health: 1940
+# combatLog
++
++ Round 1/12:
++
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Croman meleed Tempted Scholar for 130 damage.
++ Croman cast Crusader Strike at Tempted Scholar for 156 Holy damage.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++ Tempted Scholar applied Stolen Wards to Tempted Scholar.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++ Tempted Scholar applied Stolen Wards to Tempted Scholar.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Deviant Scholar cast Forbidden Research at Ardenweald Trapper for 17 Shadow damage.
++ Deviant Scholar cast Forbidden Research at Ardenweald Trapper for 17 Shadow damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Deviant Scholar cast Forbidden Research at Ardenweald Trapper for 17 Shadow damage.
++ Deviant Scholar cast Forbidden Research at Ardenweald Trapper for 17 Shadow damage.
++
++ Round 2/12:
++
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Croman meleed Tempted Scholar for 130 damage.
++ Tempted Scholar cast Stolen Wards at Croman for 24 Shadow damage.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++
++ Round 3/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Croman meleed Tempted Scholar for 130 damage.
++ Tempted Scholar cast Stolen Wards at Croman for 24 Shadow damage.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++
++ Round 4/12:
++
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Croman meleed Tempted Scholar for 130 damage.
++ Tempted Scholar cast Stolen Wards at Croman for 24 Shadow damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Tempted Scholar removed Stolen Wards from Tempted Scholar.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Tempted Scholar removed Stolen Wards from Tempted Scholar.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++
++ Round 5/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Croman meleed Tempted Scholar for 130 damage.
++ Croman cast Crusader Strike at Tempted Scholar for 156 Holy damage.
++ Croman killed Tempted Scholar.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++
++ Round 6/12:
++
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Croman meleed Deviant Scholar for 130 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Deviant Scholar cast Forbidden Research at Ardenweald Trapper for 17 Shadow damage.
++ Deviant Scholar cast Forbidden Research at Ardenweald Trapper for 17 Shadow damage.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Deviant Scholar cast Forbidden Research at Ardenweald Trapper for 17 Shadow damage.
++ Deviant Scholar cast Forbidden Research at Ardenweald Trapper for 17 Shadow damage.
++
++ Round 7/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Tempted Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Tempted Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Tempted Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Tempted Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Tempted Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Tempted Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Tempted Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Tempted Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper removed Bramble Trap from Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Croman meleed Deviant Scholar for 130 damage.
++ Deviant Scholar shot Ardenweald Trapper for 114 damage.
++ Tempted Scholar meleed Ardenweald Trapper for 124 damage.
++ Tempted Scholar applied Stolen Wards to Tempted Scholar.
++ Deviant Scholar shot Ardenweald Trapper for 114 damage.
++
++ Round 8/12:
++
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 74 Shadow damage.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Tempted Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Ardenweald Trapper applied Bramble Trap to Deviant Scholar.
++ Croman meleed Deviant Scholar for 130 damage.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++
++ Round 9/12:
++
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Croman meleed Deviant Scholar for 130 damage.
++ Croman cast Crusader Strike at Deviant Scholar for 156 Holy damage.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++
++ Round 10/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper killed Deviant Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar cast Stolen Wards at Ardenweald Trapper for 24 Shadow damage.
++ Croman meleed Deviant Scholar for 130 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Deviant Scholar.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Tempted Scholar removed Stolen Wards from Tempted Scholar.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++ Deviant Scholar shot Ardenweald Trapper for 22 damage.
++
++ Round 11/12:
++
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper meleed Deviant Scholar for 132 damage.
++ Ardenweald Trapper killed Deviant Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Croman meleed Tempted Scholar for 130 damage.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Tempted Scholar meleed Ardenweald Trapper for 24 damage.
++
++ Round 12/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Tempted Scholar.
++ Ardenweald Trapper meleed Tempted Scholar for 132 damage.
++ Ardenweald Trapper killed Tempted Scholar.
++ You won!
+# unitsPost
+## 0
+### index: 0
+### name: Ardenweald Trapper
+### level: 34
+### health: 1180
+## 1
+### index: 1
+### name: Ardenweald Trapper
+### level: 34
+### health: 1320
+## 2
+### index: 2
+### name: Ardenweald Trapper
+### level: 34
+### health: 482
+## 3
+### index: 3
+### name: Croman
+### level: 16
+### health: 578
+## 4
+### index: 4
+### name: Ardenweald Trapper
+### level: 34
+### health: 762
+## 5
+### index: 5
+### name: Tempted Scholar
+### health: 0## 8
+### index: 8
+### name: Tempted Scholar
+### health: 0## 10
+### index: 10
+### name: Deviant Scholar
+### health: 0## 11
+### index: 11
+### name: Deviant Scholar
+### health: 0

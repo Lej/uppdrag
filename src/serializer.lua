@@ -1,12 +1,12 @@
---[[
+local Serializer = LibStub("AceAddon-3.0"):GetAddon("Uppdrag"):NewModule("Serializer")
 
-function Uppdrag:Serialize(...)
+function Serializer:Serialize(...)
   local args = {...}
   local output = { }
   for i, v in ipairs(args) do
      local prettyKey = "[" .. tostring(i) .. "]"
      table.insert(output, prettyKey .. " = ")
-     SerializeRecursive(v, 0, { }, prettyKey, output)
+     self:SerializeRecursive(v, 0, { }, prettyKey, output)
      if (i < #args) then
         table.insert(output, ",\n")
      end
@@ -14,7 +14,7 @@ function Uppdrag:Serialize(...)
   return table.concat(output, "");
 end
 
-function Uppdrag:SerializeRecursive(variable, level, paths, path, output)
+function Serializer:SerializeRecursive(variable, level, paths, path, output)
 
   local function Append(output, ...)
      local text = ""
@@ -29,7 +29,7 @@ function Uppdrag:SerializeRecursive(variable, level, paths, path, output)
      if (type(variable) == "string") then
         return "\"" .. variable .. "\""
      end
-     return variable
+     return tostring(variable)
   end
 
   local function Indent(level)
@@ -46,9 +46,7 @@ function Uppdrag:SerializeRecursive(variable, level, paths, path, output)
 
   local variableType = type(variable)
 
-  if (variableType == "function") then
-     Append(output, "<function>")
-  elseif (variableType == "boolean" or variableType == "number" or variableType == "string") then
+  if (variableType == "boolean" or variableType == "number" or variableType == "string") then
      Append(output, Quote(variable))
   elseif (variableType == "table") then
 
@@ -66,7 +64,7 @@ function Uppdrag:SerializeRecursive(variable, level, paths, path, output)
 
            local value = variable[key]
            local nextPath = path .. "." .. prettyKey
-           SerializeRecursive(value, level + 1, paths, nextPath, output)
+           self:SerializeRecursive(value, level + 1, paths, nextPath, output)
 
            local nextKey = next(variable, key)
            if (nextKey ~= nil) then
@@ -77,30 +75,7 @@ function Uppdrag:SerializeRecursive(variable, level, paths, path, output)
         end
         Append(output, "\n", Indent(level), "}")
      end
+  else
+      Append(output, "<", variableType, ">")
   end
 end
-
-local y = {
-  ["1"] = 2,
-  ["c"] =  "d",
-  ["flork"] = {
-     [1] = "a",
-     [2] = "b"
-  }
-}
-
-local x = {
-  ["d"] = {
-     [1] = y,
-     [2] = y
-  },
-  ["b"] = y,
-  [1] = function(x) return 1 end
-}
-
-print("---")
-local text = Serialize(x, y)
-
-print(text)
-
-]]
