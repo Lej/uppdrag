@@ -4,6 +4,9 @@ local Uppdrag = LibStub("AceAddon-3.0"):NewAddon("Uppdrag", "AceConsole-3.0", "A
 local AceGui = LibStub("AceGUI-3.0")
 local AceSerializer = LibStub("AceSerializer-3.0")
 
+local Serializer = self:GetModule("Serializer")
+local Util = self:GetModule("Util")
+
 function Uppdrag:OnInitialize()
   self:Debug("OnInitialize")
 
@@ -106,15 +109,16 @@ function Uppdrag:FollowerFrameToString(board, followerFrame)
   local puck = board:GetFrameByBoardIndex(followerFrame.boardIndex)
   local health = puck:GetHealth()
   return "## " .. followerFrame.boardIndex .. "\n"
-    .. "### index: " .. followerFrame.boardIndex .. "\n"
+    .. "### boardIndex: " .. followerFrame.boardIndex .. "\n"
     .. "### name: " .. followerFrame.info.name .. "\n"
     .. "### level: " .. followerFrame.info.level .. "\n"
     .. "### health: " .. health
+    -- TODO maxHealth
 end
 
 function Uppdrag:EnemyFrameToString(enemyFrame)
   return "## " .. enemyFrame.boardIndex .. "\n"
-    .. "### index: " .. enemyFrame.boardIndex .. "\n"
+    .. "### boardIndex: " .. enemyFrame.boardIndex .. "\n"
     .. "### name: " .. enemyFrame.name .. "\n"
     .. "### health: " .. enemyFrame.HealthBar.health
 end
@@ -130,10 +134,10 @@ function Uppdrag:UnitsToString(board, variableName)
 
   local enemyFrames = self:GetSortedEnemyFrames(board)
   for i, enemyFrame in ipairs(enemyFrames) do
-    text = text .. self:EnemyFrameToString(enemyFrame)
+    text = text .. self:EnemyFrameToString(enemyFrame) .. "\n"
   end
 
-  return text
+  return Util:Trim(text)
 end
 
 function Uppdrag:Hook()
@@ -316,7 +320,7 @@ function Uppdrag:Inspect(...)
 
   frame:AddChild(editBox)
 
-  local serialized = self:GetModule("Serializer"):Serialize(...)
+  local serialized = Serializer:Serialize(...)
   editBox:SetText(serialized)
 
 end

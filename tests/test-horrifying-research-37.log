@@ -33,10 +33,12 @@
 ### health: 2240## 8
 ### index: 8
 ### name: Tempted Scholar
-### health: 2240## 10
+### health: 2240
+## 10
 ### index: 10
 ### name: Deviant Scholar
-### health: 1940## 11
+### health: 1940
+## 11
 ### index: 11
 ### name: Deviant Scholar
 ### health: 1940
@@ -372,13 +374,16 @@
 ## 5
 ### index: 5
 ### name: Tempted Scholar
-### health: 0## 8
+### health: 0
+## 8
 ### index: 8
 ### name: Tempted Scholar
-### health: 0## 10
+### health: 0
+## 10
 ### index: 10
 ### name: Deviant Scholar
-### health: 0## 11
+### health: 0
+## 11
 ### index: 11
 ### name: Deviant Scholar
 ### health: 0
