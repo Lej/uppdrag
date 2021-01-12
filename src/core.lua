@@ -16,6 +16,11 @@ end
 function Uppdrag:ShowGui()
   self:Debug("ShowGui")
 
+  if (self.gui) then
+    self:Debug("GUI already shown")
+    return
+  end
+
   -- Current Mission
   local function DrawGroupCurrentMission(container)
 
@@ -180,11 +185,20 @@ function Uppdrag:Hook()
     local text = self:UnitsToString(board, "# unitsPre")
     self:SetCurrentMission(text)
   end)
+
+  -- Initial opening via table before addon is loaded
+  self:SecureHook(_G.CovenantMissionFrame, "SetupTabs", function(...)
+    self:ShowGui()
+  end)
+
 end
 
 function Uppdrag:HideGui()
   self:Debug("HideGui")
-  self.gui:Hide()
+  if (self.gui) then
+    self.gui:Hide()
+    self.gui = nil
+  end
 end
 
 function Uppdrag:ClearCombatLog(text)
@@ -215,7 +229,6 @@ function Uppdrag:ADDON_LOADED(eventName, addonName)
     self:RegisterEvent("GARRISON_MISSION_COMPLETE_RESPONSE")
     self:RegisterEvent("GARRISON_FOLLOWER_LIST_UPDATE")
     self:Hook()
-    self:ShowGui()
   end
 end
 
