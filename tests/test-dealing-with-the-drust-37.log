@@ -1,0 +1,166 @@
+# mission
+## name: Dealing with the Drust
+## level: 37
+# unitsPre
+## 1
+### boardIndex: 1
+### name: Chalkyth
+### level: 36
+### health: 1610
+### maxHealth: 1610
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 6
+### boardIndex: 6
+### name: Blighted Conqueror
+### health: 2305
+## 7
+### boardIndex: 7
+### name: Blighted Conqueror
+### health: 2305
+## 9
+### boardIndex: 9
+### name: Blighted Creeper
+### health: 1805
+## 10
+### boardIndex: 10
+### name: Blighted Overseer
+### health: 1755
+## 11
+### boardIndex: 11
+### name: Blighted Overseer
+### health: 1755
+## 12
+### boardIndex: 12
+### name: Blighted Creeper
+### health: 1805
+# combatLog
++
++ Round 1/4:
++
++ Chalkyth meleed Blighted Conqueror for 184 damage.
++ Chalkyth applied Icespore Spear to Blighted Conqueror.
++ Chalkyth applied Icespore Spear to Blighted Conqueror.
++ Ardenweald Trapper meleed Blighted Conqueror for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Blighted Conqueror.
++ Ardenweald Trapper applied Bramble Trap to Blighted Conqueror.
++ Ardenweald Trapper applied Bramble Trap to Blighted Creeper.
++ Ardenweald Trapper applied Bramble Trap to Blighted Overseer.
++ Ardenweald Trapper applied Bramble Trap to Blighted Overseer.
++ Ardenweald Trapper applied Bramble Trap to Blighted Creeper.
++ Ardenweald Trapper applied Bramble Trap to Blighted Conqueror.
++ Ardenweald Trapper applied Bramble Trap to Blighted Conqueror.
++ Ardenweald Trapper applied Bramble Trap to Blighted Creeper.
++ Ardenweald Trapper applied Bramble Trap to Blighted Overseer.
++ Ardenweald Trapper applied Bramble Trap to Blighted Overseer.
++ Ardenweald Trapper applied Bramble Trap to Blighted Creeper.
++ Blighted Conqueror meleed Ardenweald Trapper for 91 damage.
++ Blighted Conqueror applied Defense of the Drust to Blighted Overseer.
++ Blighted Conqueror meleed Ardenweald Trapper for 91 damage.
++ Blighted Conqueror applied Defense of the Drust to Blighted Conqueror.
++ Blighted Creeper meleed Ardenweald Trapper for 103 damage.
++ Blighted Creeper cast Dark Gouge at Ardenweald Trapper for 103 Shadow damage.
++ Blighted Creeper applied Dark Gouge to Ardenweald Trapper.
++ Blighted Creeper's Dark Gouge dealt 51 Shadow to Ardenweald Trapper.
++ Blighted Creeper meleed Ardenweald Trapper for 103 damage.
++ Blighted Creeper cast Dark Gouge at Ardenweald Trapper for 103 Shadow damage.
++ Blighted Creeper applied Dark Gouge to Ardenweald Trapper.
++ Blighted Creeper's Dark Gouge dealt 51 Shadow to Ardenweald Trapper.
++ Blighted Overseer meleed Ardenweald Trapper for 99 damage.
++ Blighted Overseer cast Drust Blast at Ardenweald Trapper for 99 Shadow damage.
++ Blighted Overseer cast Drust Blast at Chalkyth for 99 Shadow damage.
++ Blighted Overseer meleed Ardenweald Trapper for 99 damage.
++ Blighted Overseer cast Drust Blast at Ardenweald Trapper for 99 Shadow damage.
++ Blighted Overseer cast Drust Blast at Chalkyth for 99 Shadow damage.
++
++ Round 2/4:
++
++ Chalkyth's Icespore Spear dealt 27 Frost to Blighted Conqueror.
++ Chalkyth's Icespore Spear dealt 55 Frost to Blighted Conqueror.
++ Chalkyth meleed Blighted Conqueror for 92 damage.
++ Ardenweald Trapper meleed Blighted Conqueror for 69 damage.
++ Blighted Conqueror removed Defense of the Drust from Blighted Conqueror.
++ Blighted Conqueror meleed Ardenweald Trapper for 91 damage.
++ Blighted Conqueror removed Defense of the Drust from Blighted Overseer.
++ Blighted Conqueror meleed Ardenweald Trapper for 91 damage.
++ Blighted Creeper meleed Ardenweald Trapper for 103 damage.
++ Blighted Creeper meleed Ardenweald Trapper for 103 damage.
++ Blighted Creeper killed Ardenweald Trapper.
++ Blighted Overseer meleed Chalkyth for 99 damage.
++ Blighted Overseer meleed Chalkyth for 99 damage.
++
++ Round 3/4:
++
++ Chalkyth's Icespore Spear dealt 55 Frost to Blighted Conqueror.
++ Chalkyth's Icespore Spear dealt 55 Frost to Blighted Conqueror.
++ Chalkyth meleed Blighted Conqueror for 184 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Blighted Conqueror.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Blighted Conqueror.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Blighted Creeper.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Blighted Overseer.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Blighted Overseer.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Blighted Creeper.
++ Blighted Conqueror meleed Chalkyth for 91 damage.
++ Blighted Creeper meleed Chalkyth for 103 damage.
++ Blighted Creeper meleed Chalkyth for 103 damage.
++ Blighted Conqueror meleed Chalkyth for 91 damage.
++ Blighted Overseer meleed Chalkyth for 99 damage.
++ Blighted Overseer meleed Chalkyth for 99 damage.
++
++ Round 4/4:
++
++ Chalkyth's Icespore Spear dealt 55 Frost to Blighted Conqueror.
++ Chalkyth's Icespore Spear dealt 55 Frost to Blighted Conqueror.
++ Chalkyth removed Icespore Spear from Blighted Conqueror.
++ Chalkyth removed Icespore Spear from Blighted Conqueror.
++ Chalkyth meleed Blighted Conqueror for 184 damage.
++ Blighted Conqueror meleed Chalkyth for 91 damage.
++ Blighted Creeper meleed Chalkyth for 103 damage.
++ Blighted Creeper meleed Chalkyth for 103 damage.
++ Blighted Overseer meleed Chalkyth for 99 damage.
++ Blighted Overseer cast Drust Blast at Chalkyth for 99 Shadow damage.
++ Blighted Overseer meleed Chalkyth for 99 damage.
++ Blighted Overseer cast Drust Blast at Chalkyth for 99 Shadow damage.
++ Blighted Overseer killed Chalkyth.
++ You lost.
+# unitsPost
+## 1
+### boardIndex: 1
+### name: Chalkyth
+### level: 36
+### health: 0
+### maxHealth: 1610
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 0
+### maxHealth: 1380
+## 6
+### boardIndex: 6
+### name: Blighted Conqueror
+### health: 1304
+## 7
+### boardIndex: 7
+### name: Blighted Conqueror
+### health: 2127
+## 9
+### boardIndex: 9
+### name: Blighted Creeper
+### health: 1792
+## 10
+### boardIndex: 10
+### name: Blighted Overseer
+### health: 1742
+## 11
+### boardIndex: 11
+### name: Blighted Overseer
+### health: 1742
+## 12
+### boardIndex: 12
+### name: Blighted Creeper
+### health: 1792
