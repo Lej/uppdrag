@@ -1,0 +1,316 @@
+# mission
+## name: Cloudfeather Guardian
+## level: 39
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Ardenweald Trapper
+### level: 35
+### health: 1350
+### maxHealth: 1350
+## 1
+### boardIndex: 1
+### name: Niya
+### level: 38
+### health: 63
+### maxHealth: 960
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 35
+### health: 1350
+### maxHealth: 1350
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 35
+### health: 1350
+### maxHealth: 1350
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 35
+### health: 1350
+### maxHealth: 1350
+## 5
+### boardIndex: 5
+### name: Starved Etherwyrm
+### health: 1585
+## 8
+### boardIndex: 8
+### name: Starved Etherwyrm
+### health: 1585
+## 10
+### boardIndex: 10
+### name: Cloudfeather Guardian
+### health: 6585
+# combatLog
++
++ Round 1/12:
++
++ Niya applied Invigorating Herbs to Ardenweald Trapper.
++ Niya applied Invigorating Herbs to Ardenweald Trapper.
++ Niya applied Invigorating Herbs to Ardenweald Trapper.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Starved Etherwyrm for 135 damage.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Niya shot Starved Etherwyrm for 192 damage.
++ Niya applied Spiked Burr Trap to Starved Etherwyrm.
++ Niya's Spiked Burr Trap dealt 76 Nature to Starved Etherwyrm.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 25 damage.
++ Cloudfeather Guardian cast Quills at Ardenweald Trapper for 64 Physical damage.
++ Cloudfeather Guardian cast Quills at Ardenweald Trapper for 64 Physical damage.
++ Cloudfeather Guardian cast Quills at Ardenweald Trapper for 64 Physical damage.
++ Starved Etherwyrm meleed Ardenweald Trapper for 27 damage.
++ Starved Etherwyrm cast Tail lash at Ardenweald Trapper for 8 Arcane damage.
++ Starved Etherwyrm meleed Ardenweald Trapper for 27 damage.
++ Starved Etherwyrm cast Tail lash at Ardenweald Trapper for 8 Arcane damage.
++
++ Round 2/12:
++
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper meleed Starved Etherwyrm for 135 damage.
++ Niya's Spiked Burr Trap dealt 76 Nature to Starved Etherwyrm.
++ Niya shot Starved Etherwyrm for 192 damage.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 25 damage.
++ Starved Etherwyrm meleed Ardenweald Trapper for 27 damage.
++ Starved Etherwyrm meleed Ardenweald Trapper for 27 damage.
++
++ Round 3/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper killed Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 135 damage.
++ Niya shot Cloudfeather Guardian for 192 damage.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 25 damage.
++ Starved Etherwyrm meleed Ardenweald Trapper for 27 damage.
++
++ Round 4/12:
++
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 135 damage.
++ Niya shot Cloudfeather Guardian for 192 damage.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 25 damage.
++ Starved Etherwyrm meleed Ardenweald Trapper for 27 damage.
++ Starved Etherwyrm cast Tail lash at Ardenweald Trapper for 8 Arcane damage.
++
++ Round 5/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 135 damage.
++ Niya shot Cloudfeather Guardian for 192 damage.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 25 damage.
++ Starved Etherwyrm meleed Ardenweald Trapper for 27 damage.
++
++ Round 6/12:
++
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 135 damage.
++ Niya shot Cloudfeather Guardian for 192 damage.
++ Niya applied Spiked Burr Trap to Cloudfeather Guardian.
++ Niya's Spiked Burr Trap dealt 76 Nature to Cloudfeather Guardian.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 25 damage.
++ Starved Etherwyrm meleed Ardenweald Trapper for 27 damage.
++
++ Round 7/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper removed Bramble Trap from Starved Etherwyrm.
++ Ardenweald Trapper removed Bramble Trap from Cloudfeather Guardian.
++ Ardenweald Trapper removed Bramble Trap from Starved Etherwyrm.
++ Ardenweald Trapper removed Bramble Trap from Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper removed Bramble Trap from Starved Etherwyrm.
++ Ardenweald Trapper removed Bramble Trap from Cloudfeather Guardian.
++ Ardenweald Trapper removed Bramble Trap from Starved Etherwyrm.
++ Ardenweald Trapper removed Bramble Trap from Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper removed Bramble Trap from Starved Etherwyrm.
++ Ardenweald Trapper removed Bramble Trap from Cloudfeather Guardian.
++ Ardenweald Trapper removed Bramble Trap from Starved Etherwyrm.
++ Ardenweald Trapper removed Bramble Trap from Cloudfeather Guardian.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Starved Etherwyrm.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper removed Bramble Trap from Starved Etherwyrm.
++ Ardenweald Trapper removed Bramble Trap from Cloudfeather Guardian.
++ Ardenweald Trapper removed Bramble Trap from Starved Etherwyrm.
++ Ardenweald Trapper removed Bramble Trap from Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 135 damage.
++ Niya's Spiked Burr Trap dealt 76 Nature to Cloudfeather Guardian.
++ Niya shot Cloudfeather Guardian for 192 damage.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 128 damage.
++ Starved Etherwyrm meleed Ardenweald Trapper for 138 damage.
++ Starved Etherwyrm cast Tail lash at Ardenweald Trapper for 41 Arcane damage.
++
++ Round 8/12:
++
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 135 damage.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Ardenweald Trapper applied Bramble Trap to Starved Etherwyrm.
++ Ardenweald Trapper applied Bramble Trap to Cloudfeather Guardian.
++ Niya's Spiked Burr Trap dealt 76 Nature to Cloudfeather Guardian.
++ Niya removed Spiked Burr Trap from Cloudfeather Guardian.
++ Niya shot Cloudfeather Guardian for 192 damage.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 25 damage.
++ Cloudfeather Guardian cast Quills at Ardenweald Trapper for 64 Physical damage.
++ Cloudfeather Guardian cast Quills at Ardenweald Trapper for 64 Physical damage.
++ Cloudfeather Guardian cast Quills at Ardenweald Trapper for 64 Physical damage.
++ Starved Etherwyrm meleed Ardenweald Trapper for 27 damage.
++
++ Round 9/12:
++
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 135 damage.
++ Ardenweald Trapper meleed Starved Etherwyrm for 162 damage.
++ Ardenweald Trapper killed Starved Etherwyrm.
++ Niya shot Cloudfeather Guardian for 192 damage.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 25 damage.
++
++ Round 10/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 135 damage.
++ Niya shot Cloudfeather Guardian for 192 damage.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 25 damage.
++
++ Round 11/12:
++
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 135 damage.
++ Niya shot Cloudfeather Guardian for 192 damage.
++ Niya applied Spiked Burr Trap to Cloudfeather Guardian.
++ Niya's Spiked Burr Trap dealt 76 Nature to Cloudfeather Guardian.
++ Cloudfeather Guardian meleed Ardenweald Trapper for 25 damage.
++
++ Round 12/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Cloudfeather Guardian.
++ Ardenweald Trapper meleed Cloudfeather Guardian for 162 damage.
++ Ardenweald Trapper killed Cloudfeather Guardian.
++ You won!
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Ardenweald Trapper
+### level: 35
+### health: 1350
+### maxHealth: 1350
+## 1
+### boardIndex: 1
+### name: Niya
+### level: 38
+### health: 63
+### maxHealth: 960
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 35
+### health: 782
+### maxHealth: 1350
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 35
+### health: 1222
+### maxHealth: 1350
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 35
+### health: 838
+### maxHealth: 1350
+## 5
+### boardIndex: 5
+### name: Starved Etherwyrm
+### health: 0
+## 8
+### boardIndex: 8
+### name: Starved Etherwyrm
+### health: 0
+## 10
+### boardIndex: 10
+### name: Cloudfeather Guardian
+### health: 0

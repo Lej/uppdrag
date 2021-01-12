@@ -1,11 +1,11 @@
 local Debug = true
 
-local Uppdrag = LibStub("AceAddon-3.0"):NewAddon("Uppdrag", "AceConsole-3.0", "AceEvent-3.0", "AceHook-3.0", "AceSerializer-3.0")
 local AceGui = LibStub("AceGUI-3.0")
 local AceSerializer = LibStub("AceSerializer-3.0")
 
-local Serializer = self:GetModule("Serializer")
-local Util = self:GetModule("Util")
+local Uppdrag = LibStub("AceAddon-3.0"):GetAddon("Uppdrag")
+local Serializer = Uppdrag:GetModule("Serializer")
+local Util = Uppdrag:GetModule("Util")
 
 function Uppdrag:OnInitialize()
   self:Debug("OnInitialize")
@@ -112,8 +112,8 @@ function Uppdrag:FollowerFrameToString(board, followerFrame)
     .. "### boardIndex: " .. followerFrame.boardIndex .. "\n"
     .. "### name: " .. followerFrame.info.name .. "\n"
     .. "### level: " .. followerFrame.info.level .. "\n"
-    .. "### health: " .. health
-    -- TODO maxHealth
+    .. "### health: " .. health .. "\n"
+    .. "### maxHealth: " .. followerFrame.info.autoCombatantStats.maxHealth
 end
 
 function Uppdrag:EnemyFrameToString(enemyFrame)

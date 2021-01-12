@@ -14,6 +14,10 @@ libs\AceGUI-3.0\AceGUI-3.0.xml
 libs\AceHook-3.0\AceHook-3.0.xml
 libs\AceSerializer-3.0\AceSerializer-3.0.xml
 
-src\core.lua
+src\addon.lua
+
 src\parser.lua
 src\serializer.lua
+src\util.lua
+
+src\core.lua
