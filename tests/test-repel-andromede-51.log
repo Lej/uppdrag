@@ -1,0 +1,209 @@
+# mission
+## name: Repel Andromede
+## level: 51
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Dreamweaver
+### level: 38
+### health: 453
+### maxHealth: 821
+## 1
+### boardIndex: 1
+### name: Blisswing
+### level: 33
+### health: 356
+### maxHealth: 645
+## 2
+### boardIndex: 2
+### name: Te'zan
+### level: 35
+### health: 621
+### maxHealth: 1125
+## 3
+### boardIndex: 3
+### name: Meatball
+### level: 36
+### health: 1016
+### maxHealth: 1840
+## 4
+### boardIndex: 4
+### name: Master Sha'lor
+### level: 27
+### health: 58
+### maxHealth: 740
+## 6
+### boardIndex: 6
+### name: Forsworn Protector
+### health: 3220
+## 7
+### boardIndex: 7
+### name: Forsworn Protector
+### health: 3220
+## 10
+### boardIndex: 10
+### name: Andromede, Herald of the Forsworn
+### health: 4520
+## 11
+### boardIndex: 11
+### name: Forsworn Javelineer
+### health: 2220
+# combatLog
++
++ Round 1/6:
++
++ Meatball meleed Forsworn Protector for 138 damage.
++ Te'zan meleed Forsworn Protector for 225 damage.
++ Te'zan cast Onslaught at Forsworn Protector for 315 Stormstrike damage.
++ Te'zan cast Onslaught at Forsworn Protector for 315 Stormstrike damage.
++ Dreamweaver shot Forsworn Javelineer for 288 damage.
++ Dreamweaver applied Social Butterfly to Blisswing.
++ Dreamweaver applied Social Butterfly to Te'zan.
++ Dreamweaver applied Social Butterfly to Meatball.
++ Dreamweaver applied Social Butterfly to Master Sha'lor.
++ Dreamweaver cast Podtender on Te'zan for 288 healing.
++ Dreamweaver applied Podtender to Te'zan.
++ Blisswing meleed Forsworn Protector for 430 damage.
++ Blisswing applied Dazzledust to Andromede, Herald of the Forsworn.
++ Master Sha'lor shot Andromede, Herald of the Forsworn for 296 damage.
++ Master Sha'lor cast Anima Bolt at Andromede, Herald of the Forsworn for 354 Arcane damage.
++ Andromede, Herald of the Forsworn shot Blisswing for 151 damage.
++ Forsworn Protector meleed Te'zan for 132 damage.
++ Forsworn Protector cast Shield Bash at Te'zan for 99 Shadow damage.
++ Forsworn Protector meleed Meatball for 132 damage.
++ Forsworn Protector cast Shield Bash at Meatball for 99 Shadow damage.
++ Forsworn Javelineer shot Te'zan for 182 damage.
++ Forsworn Javelineer cast Dark Javelin at Dreamweaver for 136 Shadow damage.
++
++ Round 2/6:
++
++ Meatball meleed Forsworn Protector for 276 damage.
++ Meatball applied Meatball Mad! to Meatball.
++ Meatball applied Meatball Mad! to Meatball.
++ Meatball cast Meatball Mad! at Forsworn Protector for 634 Physical damage.
++ Te'zan meleed Forsworn Protector for 427 damage.
++ Dreamweaver removed Podtender from Te'zan.
++ Dreamweaver shot Forsworn Javelineer for 288 damage.
++ Blisswing meleed Forsworn Protector for 430 damage.
++ Master Sha'lor shot Andromede, Herald of the Forsworn for 296 damage.
++ Andromede, Herald of the Forsworn shot Blisswing for 151 damage.
++ Forsworn Protector meleed Meatball for 173 damage.
++ Forsworn Protector meleed Te'zan for 132 damage.
++ Forsworn Javelineer shot Te'zan for 182 damage.
++
++ Round 3/6:
++
++ Meatball meleed Forsworn Protector for 828 damage.
++ Meatball killed Forsworn Protector.
++ Dreamweaver removed Social Butterfly from Blisswing.
++ Dreamweaver removed Social Butterfly from Te'zan.
++ Dreamweaver removed Social Butterfly from Meatball.
++ Dreamweaver removed Social Butterfly from Master Sha'lor.
++ Dreamweaver shot Forsworn Javelineer for 288 damage.
++ Dreamweaver cast Podtender on Te'zan for 288 healing.
++ Dreamweaver applied Podtender to Te'zan.
++ Te'zan meleed Andromede, Herald of the Forsworn for 202 damage.
++ Master Sha'lor shot Andromede, Herald of the Forsworn for 148 damage.
++ Master Sha'lor cast Anima Bolt at Andromede, Herald of the Forsworn for 177 Arcane damage.
++ Blisswing meleed Forsworn Protector for 215 damage.
++ Andromede, Herald of the Forsworn shot Blisswing for 151 damage.
++ Andromede, Herald of the Forsworn killed Blisswing.
++ Forsworn Protector meleed Meatball for 173 damage.
++ Forsworn Javelineer shot Te'zan for 182 damage.
++
++ Round 4/6:
++
++ Meatball removed Meatball Mad! from Meatball.
++ Meatball removed Meatball Mad! from Meatball.
++ Meatball meleed Forsworn Protector for 138 damage.
++ Dreamweaver removed Podtender from Te'zan.
++ Dreamweaver shot Forsworn Javelineer for 288 damage.
++ Te'zan meleed Andromede, Herald of the Forsworn for 225 damage.
++ Master Sha'lor shot Andromede, Herald of the Forsworn for 148 damage.
++ Blisswing removed Dazzledust from Andromede, Herald of the Forsworn.
++ Andromede, Herald of the Forsworn shot Dreamweaver for 152 damage.
++ Andromede, Herald of the Forsworn applied Forsworn's Wrath to Dreamweaver.
++ Andromede, Herald of the Forsworn applied Forsworn's Wrath to Te'zan.
++ Andromede, Herald of the Forsworn applied Forsworn's Wrath to Meatball.
++ Andromede, Herald of the Forsworn applied Forsworn's Wrath to Master Sha'lor.
++ Forsworn Protector meleed Meatball for 198 damage.
++ Forsworn Javelineer shot Te'zan for 273 damage.
++
++ Round 5/6:
++
++ Meatball meleed Forsworn Protector for 138 damage.
++ Meatball applied Meatball Mad! to Meatball.
++ Meatball applied Meatball Mad! to Meatball.
++ Meatball cast Meatball Mad! at Forsworn Protector for 317 Physical damage.
++ Dreamweaver shot Forsworn Javelineer for 288 damage.
++ Dreamweaver cast Podtender on Te'zan for 288 healing.
++ Dreamweaver applied Podtender to Te'zan.
++ Master Sha'lor shot Andromede, Herald of the Forsworn for 148 damage.
++ Master Sha'lor cast Anima Bolt at Andromede, Herald of the Forsworn for 177 Arcane damage.
++ Te'zan meleed Andromede, Herald of the Forsworn for 202 damage.
++ Te'zan cast Onslaught at Forsworn Protector for 283 Stormstrike damage.
++ Andromede, Herald of the Forsworn shot Dreamweaver for 228 damage.
++ Andromede, Herald of the Forsworn killed Dreamweaver.
++ Forsworn Protector meleed Meatball for 260 damage.
++ Forsworn Protector killed Meatball.
++ Forsworn Javelineer shot Te'zan for 273 damage.
++
++ Round 6/6:
++
++ Master Sha'lor shot Andromede, Herald of the Forsworn for 148 damage.
++ Te'zan meleed Andromede, Herald of the Forsworn for 202 damage.
++ Dreamweaver removed Podtender from Te'zan.
++ Andromede, Herald of the Forsworn removed Forsworn's Wrath from Te'zan.
++ Andromede, Herald of the Forsworn removed Forsworn's Wrath from Master Sha'lor.
++ Andromede, Herald of the Forsworn shot Master Sha'lor for 152 damage.
++ Andromede, Herald of the Forsworn killed Master Sha'lor.
++ Forsworn Protector meleed Te'zan for 132 damage.
++ Forsworn Protector killed Te'zan.
++ You lost.
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Dreamweaver
+### level: 38
+### health: 0
+### maxHealth: 821
+## 1
+### boardIndex: 1
+### name: Blisswing
+### level: 33
+### health: 0
+### maxHealth: 645
+## 2
+### boardIndex: 2
+### name: Te'zan
+### level: 35
+### health: 0
+### maxHealth: 1125
+## 3
+### boardIndex: 3
+### name: Meatball
+### level: 36
+### health: 0
+### maxHealth: 1840
+## 4
+### boardIndex: 4
+### name: Master Sha'lor
+### level: 27
+### health: 0
+### maxHealth: 740
+## 6
+### boardIndex: 6
+### name: Forsworn Protector
+### health: 0
+## 7
+### boardIndex: 7
+### name: Forsworn Protector
+### health: 1814
+## 10
+### boardIndex: 10
+### name: Andromede, Herald of the Forsworn
+### health: 1797
+## 11
+### boardIndex: 11
+### name: Forsworn Javelineer
+### health: 780

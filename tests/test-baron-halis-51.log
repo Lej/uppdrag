@@ -1,0 +1,232 @@
+# mission
+## name: Baron Halis
+## level: 51
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Croman
+### level: 22
+### health: 800
+### maxHealth: 800
+## 1
+### boardIndex: 1
+### name: Duskleaf
+### level: 18
+### health: 700
+### maxHealth: 700
+## 2
+### boardIndex: 2
+### name: Guardian Kota
+### level: 38
+### health: 1920
+### maxHealth: 1920
+## 3
+### boardIndex: 3
+### name: Niya
+### level: 38
+### health: 535
+### maxHealth: 960
+## 4
+### boardIndex: 4
+### name: Yira'lya
+### level: 38
+### health: 1440
+### maxHealth: 1440
+## 5
+### boardIndex: 5
+### name: Vestigial Animate
+### health: 1965
+## 6
+### boardIndex: 6
+### name: Baron Halis
+### health: 4765
+## 8
+### boardIndex: 8
+### name: Vestigial Animate
+### health: 1965
+## 9
+### boardIndex: 9
+### name: Vestigial Animate
+### health: 1965
+## 12
+### boardIndex: 12
+### name: Vestigial Animate
+### health: 1965
+# combatLog
++
++ Round 1/7:
++
++ Niya applied Invigorating Herbs to Croman.
++ Niya applied Invigorating Herbs to Duskleaf.
++ Niya applied Invigorating Herbs to Guardian Kota.
++ Niya applied Invigorating Herbs to Yira'lya.
++ Guardian Kota meleed Vestigial Animate for 172 damage.
++ Guardian Kota cast Flashing Arrows at Vestigial Animate for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Vestigial Animate for 154 Physical damage.
++ Yira'lya shot Vestigial Animate for 172 damage.
++ Yira'lya cast Insect Swarm at Vestigial Animate for 68 Nature damage.
++ Yira'lya applied Insect Swarm to Vestigial Animate.
++ Croman meleed Vestigial Animate for 192 damage.
++ Croman cast Crusader Strike at Vestigial Animate for 230 Holy damage.
++ Duskleaf shot Vestigial Animate for 100 damage.
++ Duskleaf applied Trickster's Torment to Vestigial Animate.
++ Duskleaf applied Trickster's Torment to Vestigial Animate.
++ Duskleaf's Trickster's Torment dealt 39 Shadow to Vestigial Animate.
++ Duskleaf's Trickster's Torment dealt 39 Shadow to Vestigial Animate.
++ Niya shot Vestigial Animate for 192 damage.
++ Niya applied Spiked Burr Trap to Vestigial Animate.
++ Niya's Spiked Burr Trap dealt 76 Nature to Vestigial Animate.
++ Baron Halis meleed Guardian Kota for 162 damage.
++ Baron Halis cast Meat Hook at Yira'lya for 486 Physical damage.
++ Vestigial Animate meleed Guardian Kota for 142 damage.
++ Vestigial Animate cast Toxic Claws at Guardian Kota for 142 Nature damage.
++ Vestigial Animate meleed Yira'lya for 142 damage.
++ Vestigial Animate cast Toxic Claws at Yira'lya for 142 Nature damage.
++ Vestigial Animate meleed Guardian Kota for 113 damage.
++ Vestigial Animate cast Toxic Claws at Guardian Kota for 113 Nature damage.
++ Vestigial Animate meleed Niya for 142 damage.
++ Vestigial Animate cast Toxic Claws at Niya for 142 Nature damage.
++
++ Round 2/7:
++
++ Guardian Kota meleed Vestigial Animate for 172 damage.
++ Croman meleed Vestigial Animate for 192 damage.
++ Duskleaf's Trickster's Torment dealt 39 Shadow to Vestigial Animate.
++ Duskleaf's Trickster's Torment dealt 39 Shadow to Vestigial Animate.
++ Duskleaf shot Vestigial Animate for 100 damage.
++ Yira'lya shot Vestigial Animate for 172 damage.
++ Niya's Spiked Burr Trap dealt 76 Nature to Vestigial Animate.
++ Niya shot Vestigial Animate for 192 damage.
++ Baron Halis meleed Guardian Kota for 162 damage.
++ Vestigial Animate meleed Yira'lya for 142 damage.
++ Vestigial Animate meleed Niya for 142 damage.
++ Vestigial Animate meleed Guardian Kota for 142 damage.
++ Vestigial Animate meleed Guardian Kota for 113 damage.
++
++ Round 3/7:
++
++ Guardian Kota meleed Vestigial Animate for 172 damage.
++ Croman meleed Vestigial Animate for 192 damage.
++ Duskleaf's Trickster's Torment dealt 39 Shadow to Vestigial Animate.
++ Duskleaf's Trickster's Torment dealt 39 Shadow to Vestigial Animate.
++ Duskleaf removed Trickster's Torment from Vestigial Animate.
++ Duskleaf removed Trickster's Torment from Vestigial Animate.
++ Duskleaf shot Vestigial Animate for 100 damage.
++ Yira'lya removed Insect Swarm from Vestigial Animate.
++ Yira'lya shot Vestigial Animate for 172 damage.
++ Niya's Spiked Burr Trap dealt 76 Nature to Vestigial Animate.
++ Niya removed Spiked Burr Trap from Vestigial Animate.
++ Niya shot Vestigial Animate for 192 damage.
++ Baron Halis meleed Guardian Kota for 162 damage.
++ Vestigial Animate meleed Yira'lya for 142 damage.
++ Vestigial Animate meleed Niya for 142 damage.
++ Vestigial Animate killed Niya.
++ Niya removed Invigorating Herbs from Croman.
++ Niya removed Invigorating Herbs from Duskleaf.
++ Niya removed Invigorating Herbs from Guardian Kota.
++ Niya removed Invigorating Herbs from Yira'lya.
++ Vestigial Animate meleed Guardian Kota for 142 damage.
++ Vestigial Animate meleed Guardian Kota for 142 damage.
++
++ Round 4/7:
++
++ Croman meleed Vestigial Animate for 160 damage.
++ Duskleaf shot Vestigial Animate for 84 damage.
++ Duskleaf killed Vestigial Animate.
++ Duskleaf applied Trickster's Torment to Vestigial Animate.
++ Duskleaf's Trickster's Torment dealt 33 Shadow to Vestigial Animate.
++ Yira'lya shot Vestigial Animate for 144 damage.
++ Guardian Kota meleed Vestigial Animate for 144 damage.
++ Guardian Kota cast Flashing Arrows at Vestigial Animate for 129 Physical damage.
++ Guardian Kota killed Vestigial Animate.
++ Baron Halis meleed Guardian Kota for 162 damage.
++ Vestigial Animate meleed Yira'lya for 142 damage.
++ Vestigial Animate meleed Yira'lya for 142 damage.
++
++ Round 5/7:
++
++ Croman meleed Baron Halis for 160 damage.
++ Croman cast Crusader Strike at Baron Halis for 192 Holy damage.
++ Duskleaf's Trickster's Torment dealt 33 Shadow to Vestigial Animate.
++ Duskleaf shot Vestigial Animate for 84 damage.
++ Guardian Kota meleed Baron Halis for 144 damage.
++ Yira'lya shot Baron Halis for 144 damage.
++ Baron Halis meleed Guardian Kota for 162 damage.
++ Vestigial Animate meleed Yira'lya for 142 damage.
++ Vestigial Animate killed Yira'lya.
++ Vestigial Animate meleed Guardian Kota for 142 damage.
++ Vestigial Animate killed Guardian Kota.
++
++ Round 6/7:
++
++ Croman meleed Baron Halis for 160 damage.
++ Duskleaf's Trickster's Torment dealt 33 Shadow to Vestigial Animate.
++ Duskleaf removed Trickster's Torment from Vestigial Animate.
++ Duskleaf shot Vestigial Animate for 84 damage.
++ Baron Halis meleed Croman for 162 damage.
++ Baron Halis cast Meat Hook at Duskleaf for 486 Physical damage.
++ Vestigial Animate meleed Duskleaf for 142 damage.
++ Vestigial Animate cast Toxic Claws at Duskleaf for 142 Nature damage.
++ Vestigial Animate killed Duskleaf.
++ Vestigial Animate meleed Croman for 142 damage.
++ Vestigial Animate cast Toxic Claws at Croman for 142 Nature damage.
++
++ Round 7/7:
++
++ Croman meleed Baron Halis for 160 damage.
++ Baron Halis meleed Croman for 162 damage.
++ Vestigial Animate meleed Croman for 142 damage.
++ Vestigial Animate meleed Croman for 142 damage.
++ Vestigial Animate killed Croman.
++ You lost.
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Croman
+### level: 22
+### health: 0
+### maxHealth: 800
+## 1
+### boardIndex: 1
+### name: Duskleaf
+### level: 18
+### health: 0
+### maxHealth: 700
+## 2
+### boardIndex: 2
+### name: Guardian Kota
+### level: 38
+### health: 0
+### maxHealth: 1920
+## 3
+### boardIndex: 3
+### name: Niya
+### level: 38
+### health: 0
+### maxHealth: 960
+## 4
+### boardIndex: 4
+### name: Yira'lya
+### level: 38
+### health: 0
+### maxHealth: 1440
+## 5
+### boardIndex: 5
+### name: Vestigial Animate
+### health: 0
+## 6
+### boardIndex: 6
+### name: Baron Halis
+### health: 3805
+## 8
+### boardIndex: 8
+### name: Vestigial Animate
+### health: 1965
+## 9
+### boardIndex: 9
+### name: Vestigial Animate
+### health: 0
+## 12
+### boardIndex: 12
+### name: Vestigial Animate
+### health: 1581
