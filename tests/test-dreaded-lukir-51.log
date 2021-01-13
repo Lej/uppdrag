@@ -1,0 +1,228 @@
+# mission
+## name: Dreaded Lukir
+## level: 51
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Yira'lya
+### level: 38
+### health: 968
+### maxHealth: 1440
+## 1
+### boardIndex: 1
+### name: Blisswing
+### level: 33
+### health: 472
+### maxHealth: 645
+## 2
+### boardIndex: 2
+### name: Duskleaf
+### level: 20
+### health: 750
+### maxHealth: 750
+## 3
+### boardIndex: 3
+### name: Master Sha'lor
+### level: 28
+### health: 760
+### maxHealth: 760
+## 4
+### boardIndex: 4
+### name: Croman
+### level: 22
+### health: 538
+### maxHealth: 800
+## 5
+### boardIndex: 5
+### name: Possessed Keeper
+### health: 1965
+## 6
+### boardIndex: 6
+### name: Possessed Guardian
+### health: 2515
+## 7
+### boardIndex: 7
+### name: Possessed Guardian
+### health: 2515
+## 8
+### boardIndex: 8
+### name: Possessed Keeper
+### health: 1965
+## 9
+### boardIndex: 9
+### name: Possessed Scavenger
+### health: 1965
+## 10
+### boardIndex: 10
+### name: Possessed Grovetender
+### health: 2265
+## 11
+### boardIndex: 11
+### name: Lukir
+### health: 3015
+## 12
+### boardIndex: 12
+### name: Possessed Scavenger
+### health: 1965
+# combatLog
++
++ Round 1/3:
++
++ Yira'lya shot Possessed Scavenger for 144 damage.
++ Yira'lya cast Insect Swarm at Possessed Scavenger for 57 Nature damage.
++ Yira'lya applied Insect Swarm to Possessed Scavenger.
++ Master Sha'lor shot Possessed Scavenger for 152 damage.
++ Master Sha'lor cast Anima Bolt at Possessed Scavenger for 182 Arcane damage.
++ Duskleaf shot Possessed Scavenger for 90 damage.
++ Duskleaf applied Trickster's Torment to Possessed Scavenger.
++ Duskleaf applied Trickster's Torment to Possessed Grovetender.
++ Duskleaf applied Trickster's Torment to Lukir.
++ Duskleaf applied Trickster's Torment to Possessed Scavenger.
++ Duskleaf's Trickster's Torment dealt 36 Shadow to Possessed Scavenger.
++ Duskleaf's Trickster's Torment dealt 36 Shadow to Possessed Grovetender.
++ Duskleaf's Trickster's Torment dealt 36 Shadow to Lukir.
++ Duskleaf's Trickster's Torment dealt 36 Shadow to Possessed Scavenger.
++ Croman meleed Possessed Guardian for 160 damage.
++ Croman cast Crusader Strike at Possessed Guardian for 192 Holy damage.
++ Blisswing meleed Possessed Guardian for 215 damage.
++ Blisswing applied Dazzledust to Possessed Scavenger.
++ Lukir shot Yira'lya for 162 damage.
++ Lukir applied Doom of the Drust to Yira'lya.
++ Lukir applied Doom of the Drust to Blisswing.
++ Lukir applied Doom of the Drust to Duskleaf.
++ Lukir applied Doom of the Drust to Master Sha'lor.
++ Lukir applied Doom of the Drust to Croman.
++ Possessed Guardian meleed Duskleaf for 142 damage.
++ Possessed Guardian cast Shield Bash at Duskleaf for 85 Physical damage.
++ Possessed Guardian applied Shield Bash to Duskleaf.
++ Possessed Guardian meleed Master Sha'lor for 142 damage.
++ Possessed Guardian cast Shield Bash at Master Sha'lor for 85 Physical damage.
++ Possessed Guardian applied Shield Bash to Master Sha'lor.
++ Possessed Grovetender shot Blisswing for 132 damage.
++ Possessed Grovetender cast Possessive Healing on Possessed Keeper for 26 healing.
++ Possessed Grovetender cast Possessive Healing on Possessed Guardian for 26 healing.
++ Possessed Grovetender cast Possessive Healing on Possessed Guardian for 26 healing.
++ Possessed Grovetender cast Possessive Healing on Possessed Keeper for 26 healing.
++ Possessed Keeper shot Croman for 152 damage.
++ Possessed Keeper shot Duskleaf for 152 damage.
++ Possessed Scavenger meleed Duskleaf for 151 damage.
++ Possessed Scavenger cast Deranged Gouge at Blisswing for 90 Nature damage.
++ Possessed Scavenger meleed Master Sha'lor for 121 damage.
++ Possessed Scavenger cast Deranged Gouge at Blisswing for 72 Nature damage.
++
++ Round 2/3:
++
++ Yira'lya shot Possessed Scavenger for 115 damage.
++ Master Sha'lor shot Possessed Scavenger for 45 damage.
++ Croman meleed Possessed Guardian for 128 damage.
++ Duskleaf's Trickster's Torment dealt 10 Shadow to Possessed Scavenger.
++ Duskleaf's Trickster's Torment dealt 10 Shadow to Possessed Grovetender.
++ Duskleaf's Trickster's Torment dealt 10 Shadow to Lukir.
++ Duskleaf's Trickster's Torment dealt 10 Shadow to Possessed Scavenger.
++ Duskleaf shot Possessed Scavenger for 27 damage.
++ Blisswing meleed Possessed Guardian for 172 damage.
++ Lukir shot Yira'lya for 162 damage.
++ Possessed Guardian removed Shield Bash from Duskleaf.
++ Possessed Guardian meleed Duskleaf for 142 damage.
++ Possessed Grovetender shot Blisswing for 132 damage.
++ Possessed Guardian removed Shield Bash from Master Sha'lor.
++ Possessed Guardian meleed Master Sha'lor for 142 damage.
++ Possessed Keeper shot Croman for 152 damage.
++ Possessed Keeper shot Duskleaf for 152 damage.
++ Possessed Keeper killed Duskleaf.
++ Possessed Scavenger meleed Master Sha'lor for 121 damage.
++ Possessed Scavenger meleed Master Sha'lor for 151 damage.
++ Possessed Scavenger killed Master Sha'lor.
++
++ Round 3/3:
++
++ Yira'lya removed Insect Swarm from Possessed Scavenger.
++ Yira'lya shot Possessed Scavenger for 115 damage.
++ Croman meleed Possessed Guardian for 128 damage.
++ Blisswing meleed Possessed Guardian for 172 damage.
++ Duskleaf's Trickster's Torment dealt 28 Shadow to Possessed Scavenger.
++ Duskleaf's Trickster's Torment dealt 28 Shadow to Possessed Grovetender.
++ Duskleaf's Trickster's Torment dealt 28 Shadow to Lukir.
++ Duskleaf's Trickster's Torment dealt 28 Shadow to Possessed Scavenger.
++ Duskleaf removed Trickster's Torment from Possessed Scavenger.
++ Duskleaf removed Trickster's Torment from Possessed Grovetender.
++ Duskleaf removed Trickster's Torment from Lukir.
++ Duskleaf removed Trickster's Torment from Possessed Scavenger.
++ Lukir removed Doom of the Drust from Yira'lya.
++ Lukir removed Doom of the Drust from Blisswing.
++ Lukir removed Doom of the Drust from Croman.
++ Lukir shot Yira'lya for 162 damage.
++ Possessed Grovetender shot Blisswing for 132 damage.
++ Possessed Grovetender killed Blisswing.
++ Possessed Guardian meleed Yira'lya for 142 damage.
++ Possessed Guardian meleed Croman for 142 damage.
++ Possessed Keeper shot Croman for 152 damage.
++ Possessed Keeper killed Croman.
++ Possessed Keeper shot Yira'lya for 152 damage.
++ Possessed Scavenger meleed Yira'lya for 151 damage.
++ Possessed Scavenger meleed Yira'lya for 152 damage.
++ Possessed Scavenger killed Yira'lya.
++ You lost.
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Yira'lya
+### level: 38
+### health: 0
+### maxHealth: 1440
+## 1
+### boardIndex: 1
+### name: Blisswing
+### level: 33
+### health: 0
+### maxHealth: 645
+## 2
+### boardIndex: 2
+### name: Duskleaf
+### level: 20
+### health: 0
+### maxHealth: 750
+## 3
+### boardIndex: 3
+### name: Master Sha'lor
+### level: 28
+### health: 0
+### maxHealth: 760
+## 4
+### boardIndex: 4
+### name: Croman
+### level: 22
+### health: 0
+### maxHealth: 800
+## 5
+### boardIndex: 5
+### name: Possessed Keeper
+### health: 1965
+## 6
+### boardIndex: 6
+### name: Possessed Guardian
+### health: 1982
+## 7
+### boardIndex: 7
+### name: Possessed Guardian
+### health: 1933
+## 8
+### boardIndex: 8
+### name: Possessed Keeper
+### health: 1965
+## 9
+### boardIndex: 9
+### name: Possessed Scavenger
+### health: 1512
+## 10
+### boardIndex: 10
+### name: Possessed Grovetender
+### health: 2191
+## 11
+### boardIndex: 11
+### name: Lukir
+### health: 2941
+## 12
+### boardIndex: 12
+### name: Possessed Scavenger
+### health: 1343
