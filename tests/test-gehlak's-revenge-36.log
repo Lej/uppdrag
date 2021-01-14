@@ -1,0 +1,419 @@
+# mission
+## name: Ghelak's Revenge
+## level: 60
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Dreamweaver
+### level: 38
+### health: 821
+### maxHealth: 821
+## 1
+### boardIndex: 1
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 6
+### boardIndex: 6
+### name: Mawsworn Protector
+### health: 2900
+## 7
+### boardIndex: 7
+### name: Ghelak the Incarcerator
+### health: 3900
+## 9
+### boardIndex: 9
+### name: Mawsworn Interceptor
+### health: 2150
+## 12
+### boardIndex: 12
+### name: Mawsworn Interceptor
+### health: 2150
+# combatLog
++
++ Round 1/11:
++
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Ghelak the Incarcerator meleed Ardenweald Trapper for 44 damage.
++ Ghelak the Incarcerator cast Stream of Anguish at Ardenweald Trapper for 22 Shadow damage.
++ Ghelak the Incarcerator cast Stream of Anguish at Dreamweaver for 22 Shadow damage.
++ Ghelak the Incarcerator cast Stream of Anguish at Ardenweald Trapper for 22 Shadow damage.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Protector applied Mawsworn Strength to Ardenweald Trapper.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 38 Shadow damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 2/11:
++
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 276 damage.
++ Ardenweald Trapper meleed Mawsworn Protector for 276 damage.
++ Ardenweald Trapper meleed Mawsworn Protector for 262 damage.
++ Ardenweald Trapper meleed Mawsworn Protector for 276 damage.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Ghelak the Incarcerator meleed Ardenweald Trapper for 44 damage.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++
++ Round 3/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Protector for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Protector for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Protector for 276 damage.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Ghelak the Incarcerator meleed Ardenweald Trapper for 44 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Protector removed Mawsworn Strength from Ardenweald Trapper.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 4/11:
++
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Protector for 124 damage.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Ghelak the Incarcerator meleed Ardenweald Trapper for 44 damage.
++ Ghelak the Incarcerator cast Stream of Anguish at Ardenweald Trapper for 22 Shadow damage.
++ Ghelak the Incarcerator cast Stream of Anguish at Dreamweaver for 22 Shadow damage.
++ Ghelak the Incarcerator cast Stream of Anguish at Ardenweald Trapper for 22 Shadow damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++
++ Round 5/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper killed Mawsworn Protector.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Ghelak the Incarcerator meleed Ardenweald Trapper for 44 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 6/11:
++
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 124 damage.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Ghelak the Incarcerator meleed Ardenweald Trapper for 44 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++
++ Round 7/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Ghelak the Incarcerator.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Ghelak the Incarcerator.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Ghelak the Incarcerator.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Ghelak the Incarcerator.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Ghelak the Incarcerator.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Ghelak the Incarcerator.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Ghelak the Incarcerator.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Ghelak the Incarcerator.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 276 damage.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver killed Mawsworn Interceptor.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Ghelak the Incarcerator meleed Ardenweald Trapper for 220 damage.
++ Ghelak the Incarcerator cast Stream of Anguish at Ardenweald Trapper for 110 Shadow damage.
++ Ghelak the Incarcerator cast Stream of Anguish at Dreamweaver for 110 Shadow damage.
++ Ghelak the Incarcerator cast Stream of Anguish at Ardenweald Trapper for 110 Shadow damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 195 damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 8/11:
++
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 276 damage.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 262 damage.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 276 damage.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Ghelak the Incarcerator.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Ghelak the Incarcerator meleed Ardenweald Trapper for 44 damage.
++
++ Round 9/11:
++
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 138 damage.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Ghelak the Incarcerator meleed Ardenweald Trapper for 44 damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 10/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 11 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 11 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 124 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Ghelak the Incarcerator.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Ghelak the Incarcerator for 138 damage.
++ Ardenweald Trapper killed Ghelak the Incarcerator.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++
++ Round 11/11:
++
++ Ardenweald Trapper meleed Mawsworn Interceptor for 138 damage.
++ Ardenweald Trapper killed Mawsworn Interceptor.
++ You won!
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Dreamweaver
+### level: 38
+### health: 572
+### maxHealth: 821
+## 1
+### boardIndex: 1
+### name: Ardenweald Trapper
+### level: 36
+### health: 1169
+### maxHealth: 1380
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 36
+### health: 1283
+### maxHealth: 1380
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 382
+### maxHealth: 1380
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 6
+### boardIndex: 6
+### name: Mawsworn Protector
+### health: 0
+## 7
+### boardIndex: 7
+### name: Ghelak the Incarcerator
+### health: 0
+## 9
+### boardIndex: 9
+### name: Mawsworn Interceptor
+### health: 0
+## 12
+### boardIndex: 12
+### name: Mawsworn Interceptor
+### health: 0
