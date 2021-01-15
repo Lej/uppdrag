@@ -1,0 +1,392 @@
+# mission
+## name: Skullduggery by Nobility
+## level: 37
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Niya
+### level: 39
+### health: 980
+### maxHealth: 980
+## 1
+### boardIndex: 1
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 6
+### boardIndex: 6
+### name: Loyal Footman
+### health: 2305
+## 7
+### boardIndex: 7
+### name: Loyal Footman
+### health: 2305
+## 10
+### boardIndex: 10
+### name: Privileged Contributor
+### health: 2925
+## 11
+### boardIndex: 11
+### name: Conceited Noble
+### health: 2125
+# combatLog
++
++ Round 1/11:
++
++ Niya applied Invigorating Herbs to Ardenweald Trapper.
++ Niya applied Invigorating Herbs to Ardenweald Trapper.
++ Niya applied Invigorating Herbs to Ardenweald Trapper.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Niya shot Conceited Noble for 196 damage.
++ Niya applied Spiked Burr Trap to Conceited Noble.
++ Niya's Spiked Burr Trap dealt 78 Nature to Conceited Noble.
++ Privileged Contributor shot Ardenweald Trapper for 36 damage.
++ Privileged Contributor applied Polished Ice Barrier to Privileged Contributor.
++ Loyal Footman meleed Ardenweald Trapper for 19 damage.
++ Loyal Footman cast Shoulder Charge at Ardenweald Trapper for 9 Physical damage.
++ Loyal Footman meleed Ardenweald Trapper for 19 damage.
++ Loyal Footman cast Shoulder Charge at Ardenweald Trapper for 9 Physical damage.
++ Conceited Noble shot Niya for 32 damage.
++ Conceited Noble applied Arrogant Denial to Niya.
++ Conceited Noble applied Arrogant Denial to Ardenweald Trapper.
++ Conceited Noble applied Arrogant Denial to Ardenweald Trapper.
++ Conceited Noble applied Arrogant Denial to Ardenweald Trapper.
++ Conceited Noble applied Arrogant Denial to Ardenweald Trapper.
++
++ Round 2/11:
++
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper meleed Loyal Footman for 138 damage.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Niya's Spiked Burr Trap dealt 78 Nature to Conceited Noble.
++ Niya shot Conceited Noble for 196 damage.
++ Privileged Contributor shot Ardenweald Trapper for 45 damage.
++ Loyal Footman meleed Ardenweald Trapper for 23 damage.
++ Conceited Noble removed Arrogant Denial from Niya.
++ Conceited Noble removed Arrogant Denial from Ardenweald Trapper.
++ Conceited Noble removed Arrogant Denial from Ardenweald Trapper.
++ Conceited Noble removed Arrogant Denial from Ardenweald Trapper.
++ Conceited Noble removed Arrogant Denial from Ardenweald Trapper.
++ Conceited Noble shot Niya for 32 damage.
++ Loyal Footman meleed Ardenweald Trapper for 19 damage.
++
++ Round 3/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Niya's Spiked Burr Trap dealt 78 Nature to Conceited Noble.
++ Niya removed Spiked Burr Trap from Conceited Noble.
++ Niya shot Conceited Noble for 196 damage.
++ Privileged Contributor shot Ardenweald Trapper for 36 damage.
++ Loyal Footman meleed Ardenweald Trapper for 19 damage.
++ Conceited Noble shot Niya for 32 damage.
++ Loyal Footman meleed Ardenweald Trapper for 19 damage.
++
++ Round 4/11:
++
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper meleed Loyal Footman for 138 damage.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Niya shot Conceited Noble for 196 damage.
++ Privileged Contributor removed Polished Ice Barrier from Privileged Contributor.
++ Privileged Contributor shot Ardenweald Trapper for 36 damage.
++ Loyal Footman meleed Ardenweald Trapper for 19 damage.
++ Conceited Noble shot Niya for 32 damage.
++ Loyal Footman meleed Ardenweald Trapper for 19 damage.
++
++ Round 5/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper killed Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Conceited Noble.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Niya shot Conceited Noble for 196 damage.
++ Privileged Contributor shot Ardenweald Trapper for 36 damage.
++ Loyal Footman meleed Ardenweald Trapper for 19 damage.
++ Loyal Footman cast Shoulder Charge at Ardenweald Trapper for 9 Physical damage.
++ Conceited Noble shot Niya for 32 damage.
++ Conceited Noble applied Arrogant Denial to Niya.
++ Conceited Noble applied Arrogant Denial to Ardenweald Trapper.
++ Conceited Noble applied Arrogant Denial to Ardenweald Trapper.
++ Conceited Noble applied Arrogant Denial to Ardenweald Trapper.
++ Conceited Noble applied Arrogant Denial to Ardenweald Trapper.
++
++ Round 6/11:
++
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper meleed Loyal Footman for 138 damage.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Niya shot Conceited Noble for 196 damage.
++ Niya applied Spiked Burr Trap to Conceited Noble.
++ Niya's Spiked Burr Trap dealt 78 Nature to Conceited Noble.
++ Privileged Contributor shot Ardenweald Trapper for 45 damage.
++ Privileged Contributor applied Polished Ice Barrier to Privileged Contributor.
++ Loyal Footman meleed Ardenweald Trapper for 23 damage.
++ Conceited Noble removed Arrogant Denial from Niya.
++ Conceited Noble removed Arrogant Denial from Ardenweald Trapper.
++ Conceited Noble removed Arrogant Denial from Ardenweald Trapper.
++ Conceited Noble removed Arrogant Denial from Ardenweald Trapper.
++ Conceited Noble removed Arrogant Denial from Ardenweald Trapper.
++ Conceited Noble shot Niya for 32 damage.
++
++ Round 7/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Conceited Noble.
++ Ardenweald Trapper removed Bramble Trap from Loyal Footman.
++ Ardenweald Trapper removed Bramble Trap from Privileged Contributor.
++ Ardenweald Trapper removed Bramble Trap from Conceited Noble.
++ Ardenweald Trapper removed Bramble Trap from Loyal Footman.
++ Ardenweald Trapper removed Bramble Trap from Privileged Contributor.
++ Ardenweald Trapper removed Bramble Trap from Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Conceited Noble.
++ Ardenweald Trapper removed Bramble Trap from Loyal Footman.
++ Ardenweald Trapper removed Bramble Trap from Privileged Contributor.
++ Ardenweald Trapper removed Bramble Trap from Conceited Noble.
++ Ardenweald Trapper removed Bramble Trap from Loyal Footman.
++ Ardenweald Trapper removed Bramble Trap from Privileged Contributor.
++ Ardenweald Trapper removed Bramble Trap from Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Conceited Noble.
++ Ardenweald Trapper removed Bramble Trap from Loyal Footman.
++ Ardenweald Trapper removed Bramble Trap from Privileged Contributor.
++ Ardenweald Trapper removed Bramble Trap from Conceited Noble.
++ Ardenweald Trapper removed Bramble Trap from Loyal Footman.
++ Ardenweald Trapper removed Bramble Trap from Privileged Contributor.
++ Ardenweald Trapper removed Bramble Trap from Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Loyal Footman.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Conceited Noble.
++ Ardenweald Trapper removed Bramble Trap from Loyal Footman.
++ Ardenweald Trapper removed Bramble Trap from Privileged Contributor.
++ Ardenweald Trapper removed Bramble Trap from Conceited Noble.
++ Ardenweald Trapper removed Bramble Trap from Loyal Footman.
++ Ardenweald Trapper removed Bramble Trap from Privileged Contributor.
++ Ardenweald Trapper removed Bramble Trap from Conceited Noble.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Privileged Contributor cast Polished Ice Barrier at Ardenweald Trapper for 72 Frost damage.
++ Niya's Spiked Burr Trap dealt 78 Nature to Conceited Noble.
++ Niya shot Conceited Noble for 196 damage.
++ Privileged Contributor shot Ardenweald Trapper for 181 damage.
++ Loyal Footman meleed Ardenweald Trapper for 99 damage.
++ Conceited Noble shot Niya for 161 damage.
++
++ Round 8/11:
++
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Privileged Contributor cast Polished Ice Barrier at Ardenweald Trapper for 28 Frost damage.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Ardenweald Trapper applied Bramble Trap to Loyal Footman.
++ Ardenweald Trapper applied Bramble Trap to Privileged Contributor.
++ Ardenweald Trapper applied Bramble Trap to Conceited Noble.
++ Niya's Spiked Burr Trap dealt 78 Nature to Conceited Noble.
++ Niya removed Spiked Burr Trap from Conceited Noble.
++ Niya shot Conceited Noble for 196 damage.
++ Niya killed Conceited Noble.
++ Privileged Contributor shot Ardenweald Trapper for 36 damage.
++ Loyal Footman meleed Ardenweald Trapper for 19 damage.
++
++ Round 9/11:
++
++ Ardenweald Trapper meleed Loyal Footman for 165 damage.
++ Ardenweald Trapper killed Loyal Footman.
++ Ardenweald Trapper meleed Privileged Contributor for 138 damage.
++ Privileged Contributor cast Polished Ice Barrier at Ardenweald Trapper for 14 Frost damage.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Privileged Contributor cast Polished Ice Barrier at Ardenweald Trapper for 14 Frost damage.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Privileged Contributor cast Polished Ice Barrier at Ardenweald Trapper for 14 Frost damage.
++ Niya shot Privileged Contributor for 196 damage.
++ Privileged Contributor cast Polished Ice Barrier at Niya for 14 Frost damage.
++ Privileged Contributor removed Polished Ice Barrier from Privileged Contributor.
++ Privileged Contributor shot Ardenweald Trapper for 36 damage.
++
++ Round 10/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Privileged Contributor.
++ Ardenweald Trapper meleed Privileged Contributor for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Ardenweald Trapper's Bramble Trap dealt 15 Nature to Privileged Contributor.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Niya shot Privileged Contributor for 196 damage.
++ Privileged Contributor shot Ardenweald Trapper for 36 damage.
++
++ Round 11/11:
++
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Ardenweald Trapper meleed Privileged Contributor for 138 damage.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Ardenweald Trapper meleed Privileged Contributor for 165 damage.
++ Ardenweald Trapper killed Privileged Contributor.
++ You won!
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Niya
+### level: 39
+### health: 613
+### maxHealth: 980
+## 1
+### boardIndex: 1
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 36
+### health: 658
+### maxHealth: 1380
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 1108
+### maxHealth: 1380
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 36
+### health: 1366
+### maxHealth: 1380
+## 6
+### boardIndex: 6
+### name: Loyal Footman
+### health: 0
+## 7
+### boardIndex: 7
+### name: Loyal Footman
+### health: 0
+## 10
+### boardIndex: 10
+### name: Privileged Contributor
+### health: 0
+## 11
+### boardIndex: 11
+### name: Conceited Noble
+### health: 0
