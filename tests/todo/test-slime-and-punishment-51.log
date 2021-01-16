@@ -1,0 +1,194 @@
+# mission
+## name: Slime and Punishment
+## level: 51
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Blisswing
+### level: 34
+### health: 660
+### maxHealth: 660
+## 1
+### boardIndex: 1
+### name: Master Sha'lor
+### level: 29
+### health: 780
+### maxHealth: 780
+## 2
+### boardIndex: 2
+### name: Meatball
+### level: 37
+### health: 633
+### maxHealth: 1880
+## 3
+### boardIndex: 3
+### name: Chalkyth
+### level: 36
+### health: 542
+### maxHealth: 1610
+## 4
+### boardIndex: 4
+### name: Te'zan
+### level: 36
+### health: 386
+### maxHealth: 1150
+## 5
+### boardIndex: 5
+### name: Skittering Leecher
+### health: 1265
+## 7
+### boardIndex: 7
+### name: Colossal Feaster
+### health: 4265
+## 8
+### boardIndex: 8
+### name: Skittering Leecher
+### health: 1265
+## 9
+### boardIndex: 9
+### name: Skittering Leecher
+### health: 1265
+## 10
+### boardIndex: 10
+### name: Enraged Glutton
+### health: 2515
+## 11
+### boardIndex: 11
+### name: Enraged Glutton
+### health: 2515
+## 12
+### boardIndex: 12
+### name: Skittering Leecher
+### health: 1265
+# combatLog
++
++ Round 1/3:
++
++ Master Sha'lor shot Skittering Leecher for 156 damage.
++ Master Sha'lor cast Anima Bolt at Skittering Leecher for 187 Arcane damage.
++ Blisswing meleed Skittering Leecher for 220 damage.
++ Blisswing applied Dazzledust to Skittering Leecher.
++ Meatball meleed Skittering Leecher for 141 damage.
++ Chalkyth meleed Colossal Feaster for 184 damage.
++ Chalkyth applied Icespore Spear to Skittering Leecher.
++ Chalkyth applied Icespore Spear to Colossal Feaster.
++ Chalkyth applied Icespore Spear to Skittering Leecher.
++ Te'zan meleed Colossal Feaster for 230 damage.
++ Te'zan cast Onslaught at Skittering Leecher for 322 Stormstrike damage.
++ Te'zan cast Onslaught at Colossal Feaster for 322 Stormstrike damage.
++ Te'zan cast Onslaught at Skittering Leecher for 322 Stormstrike damage.
++ Colossal Feaster meleed Chalkyth for 147 damage.
++ Colossal Feaster cast Acidic Stomp at Meatball for 176 Nature damage.
++ Colossal Feaster cast Acidic Stomp at Chalkyth for 176 Nature damage.
++ Colossal Feaster cast Acidic Stomp at Te'zan for 176 Nature damage.
++ Enraged Glutton meleed Meatball for 147 damage.
++ Enraged Glutton cast Acidic Volley at Master Sha'lor for 220 Nature damage.
++ Enraged Glutton meleed Meatball for 147 damage.
++ Enraged Glutton cast Acidic Volley at Blisswing for 220 Nature damage.
++ Skittering Leecher meleed Meatball for 132 damage.
++ Skittering Leecher applied Acidic Spray to Meatball.
++ Skittering Leecher applied Acidic Spray to Chalkyth.
++ Skittering Leecher applied Acidic Spray to Te'zan.
++ Skittering Leecher meleed Te'zan for 132 damage.
++ Skittering Leecher applied Acidic Spray to Meatball.
++ Skittering Leecher applied Acidic Spray to Chalkyth.
++ Skittering Leecher applied Acidic Spray to Te'zan.
++ Skittering Leecher meleed Meatball for 132 damage.
++ Skittering Leecher killed Meatball.
++ Skittering Leecher applied Acidic Spray to Chalkyth.
++ Skittering Leecher applied Acidic Spray to Te'zan.
++ Skittering Leecher meleed Chalkyth for 131 damage.
++ Skittering Leecher applied Acidic Spray to Chalkyth.
++ Skittering Leecher applied Acidic Spray to Te'zan.
++
++ Round 2/3:
++
++ Master Sha'lor shot Skittering Leecher for 156 damage.
++ Blisswing meleed Skittering Leecher for 220 damage.
++ Chalkyth's Icespore Spear dealt 0 Frost to Skittering Leecher.
++ Chalkyth's Icespore Spear dealt 0 Frost to Colossal Feaster.
++ Chalkyth's Icespore Spear dealt 0 Frost to Skittering Leecher.
++ Chalkyth meleed Colossal Feaster for 0 damage.
++ Te'zan meleed Colossal Feaster for 0 damage.
++ Colossal Feaster meleed Chalkyth for 147 damage.
++ Colossal Feaster killed Chalkyth.
++ Enraged Glutton meleed Te'zan for 147 damage.
++ Enraged Glutton killed Te'zan.
++ Enraged Glutton meleed Blisswing for 147 damage.
++ Skittering Leecher meleed Blisswing for 131 damage.
++ Skittering Leecher meleed Master Sha'lor for 132 damage.
++ Skittering Leecher meleed Blisswing for 132 damage.
++ Skittering Leecher meleed Blisswing for 132 damage.
++ Skittering Leecher killed Blisswing.
++
++ Round 3/3:
++
++ Master Sha'lor shot Skittering Leecher for 156 damage.
++ Master Sha'lor cast Anima Bolt at Skittering Leecher for 187 Arcane damage.
++ Chalkyth's Icespore Spear dealt 0 Frost to Skittering Leecher.
++ Chalkyth's Icespore Spear dealt 0 Frost to Colossal Feaster.
++ Chalkyth's Icespore Spear dealt 0 Frost to Skittering Leecher.
++ Colossal Feaster meleed Master Sha'lor for 147 damage.
++ Enraged Glutton meleed Master Sha'lor for 147 damage.
++ Enraged Glutton meleed Master Sha'lor for 147 damage.
++ Enraged Glutton killed Master Sha'lor.
++ You lost.
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Blisswing
+### level: 34
+### health: 0
+### maxHealth: 660
+## 1
+### boardIndex: 1
+### name: Master Sha'lor
+### level: 29
+### health: 0
+### maxHealth: 780
+## 2
+### boardIndex: 2
+### name: Meatball
+### level: 37
+### health: 0
+### maxHealth: 1880
+## 3
+### boardIndex: 3
+### name: Chalkyth
+### level: 36
+### health: 0
+### maxHealth: 1610
+## 4
+### boardIndex: 4
+### name: Te'zan
+### level: 36
+### health: 0
+### maxHealth: 1150
+## 5
+### boardIndex: 5
+### name: Skittering Leecher
+### health: 362
+## 7
+### boardIndex: 7
+### name: Colossal Feaster
+### health: 3529
+## 8
+### boardIndex: 8
+### name: Skittering Leecher
+### health: 943
+## 9
+### boardIndex: 9
+### name: Skittering Leecher
+### health: 423
+## 10
+### boardIndex: 10
+### name: Enraged Glutton
+### health: 2515
+## 11
+### boardIndex: 11
+### name: Enraged Glutton
+### health: 2515
+## 12
+### boardIndex: 12
+### name: Skittering Leecher
+### health: 1265

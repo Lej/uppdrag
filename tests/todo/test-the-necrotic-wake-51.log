@@ -1,0 +1,302 @@
+# mission
+## name: The Necrotic Wake
+## level: 51
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Guardian Kota
+### level: 38
+### health: 1290
+### maxHealth: 1920
+## 1
+### boardIndex: 1
+### name: Niya
+### level: 38
+### health: 645
+### maxHealth: 960
+## 2
+### boardIndex: 2
+### name: Chalkyth
+### level: 36
+### health: 1610
+### maxHealth: 1610
+## 3
+### boardIndex: 3
+### name: Te'zan
+### level: 35
+### health: 824
+### maxHealth: 1125
+## 4
+### boardIndex: 4
+### name: Meatball
+### level: 36
+### health: 1348
+### maxHealth: 1840
+## 6
+### boardIndex: 6
+### name: Stitched Vanguard
+### health: 3765
+## 7
+### boardIndex: 7
+### name: Stitched Vanguard
+### health: 3765
+## 9
+### boardIndex: 9
+### name: Rot Flinger
+### health: 1265
+## 10
+### boardIndex: 10
+### name: Zoliramus Gatekeeper
+### health: 1865
+## 11
+### boardIndex: 11
+### name: Rot Flinger
+### health: 1265
+# combatLog
++
++ Round 1/12:
++
++ Niya applied Invigorating Herbs to Guardian Kota.
++ Niya applied Invigorating Herbs to Te'zan.
++ Niya applied Invigorating Herbs to Meatball.
++ Chalkyth meleed Stitched Vanguard for 184 damage.
++ Chalkyth applied Icespore Spear to Stitched Vanguard.
++ Chalkyth applied Icespore Spear to Stitched Vanguard.
++ Meatball meleed Stitched Vanguard for 165 damage.
++ Guardian Kota meleed Stitched Vanguard for 172 damage.
++ Guardian Kota cast Flashing Arrows at Stitched Vanguard for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Rot Flinger for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Zoliramus Gatekeeper for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Rot Flinger for 154 Physical damage.
++ Te'zan meleed Stitched Vanguard for 270 damage.
++ Te'zan cast Onslaught at Stitched Vanguard for 378 Stormstrike damage.
++ Te'zan cast Onslaught at Stitched Vanguard for 378 Stormstrike damage.
++ Niya shot Rot Flinger for 192 damage.
++ Niya applied Spiked Burr Trap to Rot Flinger.
++ Niya's Spiked Burr Trap dealt 76 Nature to Rot Flinger.
++ Stitched Vanguard meleed Chalkyth for 142 damage.
++ Stitched Vanguard applied Seething Rage to Stitched Vanguard.
++ Stitched Vanguard meleed Te'zan for 142 damage.
++ Stitched Vanguard applied Seething Rage to Stitched Vanguard.
++ Zoliramus Gatekeeper shot Niya for 127 damage.
++ Zoliramus Gatekeeper applied Necromantic Infusion to Rot Flinger.
++ Rot Flinger shot Meatball for 222 damage.
++ Rot Flinger cast Rot Volley at Meatball for 54 Shadow damage.
++ Rot Flinger applied Rot Volley to Meatball.
++ Rot Flinger's Rot Volley dealt 110 Shadow to Meatball.
++ Rot Flinger shot Guardian Kota for 127 damage.
++ Rot Flinger cast Rot Volley at Guardian Kota for 31 Shadow damage.
++ Rot Flinger applied Rot Volley to Guardian Kota.
++ Rot Flinger's Rot Volley dealt 63 Shadow to Guardian Kota.
++
++ Round 2/12:
++
++ Chalkyth's Icespore Spear dealt 55 Frost to Stitched Vanguard.
++ Chalkyth's Icespore Spear dealt 55 Frost to Stitched Vanguard.
++ Chalkyth meleed Stitched Vanguard for 184 damage.
++ Guardian Kota meleed Stitched Vanguard for 172 damage.
++ Meatball meleed Stitched Vanguard for 165 damage.
++ Meatball applied Meatball Mad! to Meatball.
++ Meatball applied Meatball Mad! to Meatball.
++ Meatball cast Meatball Mad! at Stitched Vanguard for 380 Physical damage.
++ Te'zan meleed Stitched Vanguard for 270 damage.
++ Niya's Spiked Burr Trap dealt 76 Nature to Rot Flinger.
++ Niya shot Rot Flinger for 192 damage.
++ Stitched Vanguard meleed Te'zan for 284 damage.
++ Stitched Vanguard meleed Chalkyth for 284 damage.
++ Zoliramus Gatekeeper shot Niya for 127 damage.
++ Rot Flinger shot Guardian Kota for 127 damage.
++ Rot Flinger shot Meatball for 263 damage.
++
++ Round 3/12:
++
++ Chalkyth's Icespore Spear dealt 55 Frost to Stitched Vanguard.
++ Chalkyth's Icespore Spear dealt 55 Frost to Stitched Vanguard.
++ Chalkyth meleed Stitched Vanguard for 184 damage.
++ Guardian Kota meleed Stitched Vanguard for 172 damage.
++ Meatball meleed Stitched Vanguard for 496 damage.
++ Te'zan meleed Stitched Vanguard for 270 damage.
++ Niya's Spiked Burr Trap dealt 76 Nature to Rot Flinger.
++ Niya removed Spiked Burr Trap from Rot Flinger.
++ Niya shot Rot Flinger for 192 damage.
++ Stitched Vanguard removed Seething Rage from Stitched Vanguard.
++ Stitched Vanguard meleed Te'zan for 142 damage.
++ Stitched Vanguard removed Seething Rage from Stitched Vanguard.
++ Stitched Vanguard meleed Chalkyth for 142 damage.
++ Zoliramus Gatekeeper removed Necromantic Infusion from Rot Flinger.
++ Zoliramus Gatekeeper shot Niya for 127 damage.
++ Rot Flinger shot Guardian Kota for 127 damage.
++ Rot Flinger shot Meatball for 168 damage.
++
++ Round 4/12:
++
++ Chalkyth's Icespore Spear dealt 55 Frost to Stitched Vanguard.
++ Chalkyth's Icespore Spear dealt 55 Frost to Stitched Vanguard.
++ Chalkyth removed Icespore Spear from Stitched Vanguard.
++ Chalkyth removed Icespore Spear from Stitched Vanguard.
++ Chalkyth meleed Stitched Vanguard for 184 damage.
++ Guardian Kota meleed Stitched Vanguard for 172 damage.
++ Guardian Kota cast Flashing Arrows at Stitched Vanguard for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Rot Flinger for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Zoliramus Gatekeeper for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Rot Flinger for 154 Physical damage.
++ Meatball removed Meatball Mad! from Meatball.
++ Meatball removed Meatball Mad! from Meatball.
++ Meatball meleed Stitched Vanguard for 165 damage.
++ Niya shot Rot Flinger for 192 damage.
++ Niya killed Rot Flinger.
++ Te'zan meleed Stitched Vanguard for 270 damage.
++ Stitched Vanguard meleed Te'zan for 142 damage.
++ Zoliramus Gatekeeper shot Niya for 127 damage.
++ Stitched Vanguard meleed Chalkyth for 142 damage.
++ Rot Flinger's Rot Volley dealt 63 Shadow to Guardian Kota.
++ Rot Flinger removed Rot Volley from Guardian Kota.
++ Rot Flinger shot Guardian Kota for 127 damage.
++ Rot Flinger's Rot Volley dealt 63 Shadow to Meatball.
++ Rot Flinger removed Rot Volley from Meatball.
++
++ Round 5/12:
++
++ Chalkyth meleed Stitched Vanguard for 184 damage.
++ Guardian Kota meleed Stitched Vanguard for 172 damage.
++ Meatball meleed Stitched Vanguard for 165 damage.
++ Meatball applied Meatball Mad! to Meatball.
++ Meatball applied Meatball Mad! to Meatball.
++ Meatball cast Meatball Mad! at Stitched Vanguard for 380 Physical damage.
++ Niya shot Zoliramus Gatekeeper for 192 damage.
++ Te'zan meleed Stitched Vanguard for 270 damage.
++ Te'zan killed Stitched Vanguard.
++ Te'zan cast Onslaught at Stitched Vanguard for 378 Stormstrike damage.
++ Stitched Vanguard meleed Te'zan for 142 damage.
++ Stitched Vanguard killed Te'zan.
++ Zoliramus Gatekeeper shot Niya for 127 damage.
++ Rot Flinger shot Guardian Kota for 127 damage.
++ Rot Flinger cast Rot Volley at Guardian Kota for 31 Shadow damage.
++ Rot Flinger applied Rot Volley to Guardian Kota.
++ Rot Flinger's Rot Volley dealt 63 Shadow to Guardian Kota.
++
++ Round 6/12:
++
++ Chalkyth meleed Zoliramus Gatekeeper for 184 damage.
++ Chalkyth applied Icespore Spear to Stitched Vanguard.
++ Meatball meleed Stitched Vanguard for 496 damage.
++ Guardian Kota meleed Zoliramus Gatekeeper for 172 damage.
++ Niya shot Zoliramus Gatekeeper for 192 damage.
++ Niya applied Spiked Burr Trap to Zoliramus Gatekeeper.
++ Niya's Spiked Burr Trap dealt 76 Nature to Zoliramus Gatekeeper.
++ Zoliramus Gatekeeper shot Niya for 127 damage.
++ Zoliramus Gatekeeper killed Niya.
++ Niya removed Invigorating Herbs from Guardian Kota.
++ Niya removed Invigorating Herbs from Meatball.
++ Zoliramus Gatekeeper applied Necromantic Infusion to Rot Flinger.
++ Rot Flinger shot Guardian Kota for 222 damage.
++ Stitched Vanguard meleed Meatball for 183 damage.
++ Stitched Vanguard applied Seething Rage to Stitched Vanguard.
++
++ Round 7/12:
++
++ Chalkyth's Icespore Spear dealt 55 Frost to Stitched Vanguard.
++ Chalkyth meleed Zoliramus Gatekeeper for 184 damage.
++ Meatball removed Meatball Mad! from Meatball.
++ Meatball removed Meatball Mad! from Meatball.
++ Meatball meleed Stitched Vanguard for 138 damage.
++ Guardian Kota meleed Zoliramus Gatekeeper for 144 damage.
++ Guardian Kota cast Flashing Arrows at Zoliramus Gatekeeper for 129 Physical damage.
++ Niya's Spiked Burr Trap dealt 76 Nature to Zoliramus Gatekeeper.
++ Rot Flinger shot Guardian Kota for 222 damage.
++ Rot Flinger killed Guardian Kota.
++ Zoliramus Gatekeeper shot Meatball for 127 damage.
++ Stitched Vanguard meleed Meatball for 284 damage.
++ Stitched Vanguard killed Meatball.
++
++ Round 8/12:
++
++ Chalkyth's Icespore Spear dealt 55 Frost to Stitched Vanguard.
++ Chalkyth meleed Zoliramus Gatekeeper for 184 damage.
++ Niya's Spiked Burr Trap dealt 76 Nature to Zoliramus Gatekeeper.
++ Niya killed Zoliramus Gatekeeper.
++ Rot Flinger shot Chalkyth for 222 damage.
++ Stitched Vanguard removed Seething Rage from Stitched Vanguard.
++ Stitched Vanguard meleed Chalkyth for 142 damage.
++ Zoliramus Gatekeeper removed Necromantic Infusion from Rot Flinger.
++
++ Round 9/12:
++
++ Chalkyth's Icespore Spear dealt 55 Frost to Stitched Vanguard.
++ Chalkyth removed Icespore Spear from Stitched Vanguard.
++ Chalkyth meleed Stitched Vanguard for 184 damage.
++ Chalkyth killed Stitched Vanguard.
++ Rot Flinger shot Chalkyth for 127 damage.
++ Rot Flinger cast Rot Volley at Chalkyth for 31 Shadow damage.
++ Rot Flinger applied Rot Volley to Chalkyth.
++ Rot Flinger's Rot Volley dealt 63 Shadow to Chalkyth.
++
++ Round 10/12:
++
++ Chalkyth meleed Rot Flinger for 184 damage.
++ Rot Flinger shot Chalkyth for 127 damage.
++
++ Round 11/12:
++
++ Chalkyth meleed Rot Flinger for 184 damage.
++ Chalkyth applied Icespore Spear to Rot Flinger.
++ Rot Flinger shot Chalkyth for 127 damage.
++
++ Round 12/12:
++
++ Chalkyth's Icespore Spear dealt 55 Frost to Rot Flinger.
++ Chalkyth meleed Rot Flinger for 184 damage.
++ Rot Flinger's Rot Volley dealt 63 Shadow to Chalkyth.
++ Rot Flinger killed Chalkyth.
++ You lost.
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Guardian Kota
+### level: 38
+### health: 0
+### maxHealth: 1920
+## 1
+### boardIndex: 1
+### name: Niya
+### level: 38
+### health: 0
+### maxHealth: 960
+## 2
+### boardIndex: 2
+### name: Chalkyth
+### level: 36
+### health: 0
+### maxHealth: 1610
+## 3
+### boardIndex: 3
+### name: Te'zan
+### level: 35
+### health: 0
+### maxHealth: 1125
+## 4
+### boardIndex: 4
+### name: Meatball
+### level: 36
+### health: 0
+### maxHealth: 1840
+## 6
+### boardIndex: 6
+### name: Stitched Vanguard
+### health: 0
+## 7
+### boardIndex: 7
+### name: Stitched Vanguard
+### health: 0
+## 9
+### boardIndex: 9
+### name: Rot Flinger
+### health: 0
+## 10
+### boardIndex: 10
+### name: Zoliramus Gatekeeper
+### health: 0
+## 11
+### boardIndex: 11
+### name: Rot Flinger
+### health: 350

@@ -1,0 +1,431 @@
+# mission
+## name: Glimmerfly Overpopulation
+## level: 50
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Hunt-Captain Korayn
+### level: 6
+### health: 560
+### maxHealth: 560
+## 1
+### boardIndex: 1
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 5
+### boardIndex: 5
+### name: Frenzied Glimmerfly
+### health: 400
+## 6
+### boardIndex: 6
+### name: Frenzied Glimmerfly
+### health: 400
+## 7
+### boardIndex: 7
+### name: Frenzied Glimmerfly
+### health: 400
+## 8
+### boardIndex: 8
+### name: Frenzied Glimmerfly
+### health: 400
+## 9
+### boardIndex: 9
+### name: Frenzied Glimmerfly
+### health: 400
+## 10
+### boardIndex: 10
+### name: Frenzied Glimmerfly
+### health: 400
+## 11
+### boardIndex: 11
+### name: Glimmerfly Matriarch
+### health: 4100
+## 12
+### boardIndex: 12
+### name: Frenzied Glimmerfly
+### health: 400
+# combatLog
++
++ Round 1/11:
++
++ Hunt-Captain Korayn applied Hold the Line to Hunt-Captain Korayn.
++ Hunt-Captain Korayn applied Hold the Line to Ardenweald Trapper.
++ Hunt-Captain Korayn applied Hold the Line to Ardenweald Trapper.
++ Hunt-Captain Korayn applied Hold the Line to Ardenweald Trapper.
++ Hunt-Captain Korayn applied Hold the Line to Ardenweald Trapper.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Hunt-Captain Korayn meleed Frenzied Glimmerfly for 64 damage.
++ Hunt-Captain Korayn cast Face Your Foes at Frenzied Glimmerfly for 25 Physical damage.
++ Hunt-Captain Korayn cast Face Your Foes at Frenzied Glimmerfly for 25 Physical damage.
++ Glimmerfly Matriarch meleed Ardenweald Trapper for 27 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++
++ Round 2/11:
++
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper killed Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper killed Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Hunt-Captain Korayn meleed Frenzied Glimmerfly for 64 damage.
++ Hunt-Captain Korayn killed Frenzied Glimmerfly.
++ Glimmerfly Matriarch meleed Ardenweald Trapper for 27 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++
++ Round 3/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Hunt-Captain Korayn meleed Frenzied Glimmerfly for 64 damage.
++ Glimmerfly Matriarch meleed Ardenweald Trapper for 27 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++
++ Round 4/11:
++
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Hunt-Captain Korayn meleed Frenzied Glimmerfly for 64 damage.
++ Hunt-Captain Korayn killed Frenzied Glimmerfly.
++ Hunt-Captain Korayn cast Face Your Foes at Frenzied Glimmerfly for 25 Physical damage.
++ Hunt-Captain Korayn cast Face Your Foes at Glimmerfly Matriarch for 25 Physical damage.
++ Glimmerfly Matriarch meleed Ardenweald Trapper for 27 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++
++ Round 5/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper killed Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper killed Frenzied Glimmerfly.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Hunt-Captain Korayn meleed Glimmerfly Matriarch for 64 damage.
++ Glimmerfly Matriarch meleed Ardenweald Trapper for 27 damage.
++ Glimmerfly Matriarch cast Anima Wave on Frenzied Glimmerfly for 300 healing.
++ Glimmerfly Matriarch applied Anima Wave to Frenzied Glimmerfly.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 53 damage.
++
++ Round 6/11:
++
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Hunt-Captain Korayn meleed Glimmerfly Matriarch for 64 damage.
++ Glimmerfly Matriarch removed Anima Wave from Frenzied Glimmerfly.
++ Glimmerfly Matriarch meleed Ardenweald Trapper for 27 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++
++ Round 7/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper removed Bramble Trap from Glimmerfly Matriarch.
++ Ardenweald Trapper removed Bramble Trap from Frenzied Glimmerfly.
++ Ardenweald Trapper removed Bramble Trap from Glimmerfly Matriarch.
++ Ardenweald Trapper removed Bramble Trap from Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper removed Bramble Trap from Glimmerfly Matriarch.
++ Ardenweald Trapper removed Bramble Trap from Frenzied Glimmerfly.
++ Ardenweald Trapper removed Bramble Trap from Glimmerfly Matriarch.
++ Ardenweald Trapper removed Bramble Trap from Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper removed Bramble Trap from Glimmerfly Matriarch.
++ Ardenweald Trapper removed Bramble Trap from Frenzied Glimmerfly.
++ Ardenweald Trapper removed Bramble Trap from Glimmerfly Matriarch.
++ Ardenweald Trapper removed Bramble Trap from Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper removed Bramble Trap from Glimmerfly Matriarch.
++ Ardenweald Trapper removed Bramble Trap from Frenzied Glimmerfly.
++ Ardenweald Trapper removed Bramble Trap from Glimmerfly Matriarch.
++ Ardenweald Trapper removed Bramble Trap from Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Hunt-Captain Korayn meleed Glimmerfly Matriarch for 64 damage.
++ Hunt-Captain Korayn cast Face Your Foes at Glimmerfly Matriarch for 25 Physical damage.
++ Glimmerfly Matriarch meleed Ardenweald Trapper for 135 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 76 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 15 Shadow damage.
++
++ Round 8/11:
++
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Ardenweald Trapper applied Bramble Trap to Glimmerfly Matriarch.
++ Ardenweald Trapper applied Bramble Trap to Frenzied Glimmerfly.
++ Hunt-Captain Korayn meleed Glimmerfly Matriarch for 64 damage.
++ Glimmerfly Matriarch meleed Ardenweald Trapper for 27 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++
++ Round 9/11:
++
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Hunt-Captain Korayn meleed Glimmerfly Matriarch for 64 damage.
++ Glimmerfly Matriarch meleed Ardenweald Trapper for 27 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++
++ Round 10/11:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Glimmerfly Matriarch.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Frenzied Glimmerfly.
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Hunt-Captain Korayn meleed Glimmerfly Matriarch for 64 damage.
++ Hunt-Captain Korayn cast Face Your Foes at Glimmerfly Matriarch for 25 Physical damage.
++ Glimmerfly Matriarch meleed Ardenweald Trapper for 27 damage.
++ Frenzied Glimmerfly meleed Ardenweald Trapper for 15 damage.
++ Frenzied Glimmerfly cast Dive bomb at Ardenweald Trapper for 2 Shadow damage.
++
++ Round 11/11:
++
++ Ardenweald Trapper meleed Glimmerfly Matriarch for 138 damage.
++ Ardenweald Trapper killed Glimmerfly Matriarch.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper meleed Frenzied Glimmerfly for 138 damage.
++ Ardenweald Trapper killed Frenzied Glimmerfly.
++ You won!
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Hunt-Captain Korayn
+### level: 6
+### health: 560
+### maxHealth: 560
+## 1
+### boardIndex: 1
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 36
+### health: 857
+### maxHealth: 1380
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 1093
+### maxHealth: 1380
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 36
+### health: 1316
+### maxHealth: 1380
+## 5
+### boardIndex: 5
+### name: Frenzied Glimmerfly
+### health: 0
+## 6
+### boardIndex: 6
+### name: Frenzied Glimmerfly
+### health: 0
+## 7
+### boardIndex: 7
+### name: Frenzied Glimmerfly
+### health: 0
+## 8
+### boardIndex: 8
+### name: Frenzied Glimmerfly
+### health: 0
+## 9
+### boardIndex: 9
+### name: Frenzied Glimmerfly
+### health: 0
+## 10
+### boardIndex: 10
+### name: Frenzied Glimmerfly
+### health: 0
+## 11
+### boardIndex: 11
+### name: Glimmerfly Matriarch
+### health: 0
+## 12
+### boardIndex: 12
+### name: Frenzied Glimmerfly
+### health: 0

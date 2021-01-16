@@ -1,0 +1,199 @@
+# mission
+## name: Flight of the Necrorays
+## level: 38
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Croman
+### level: 24
+### health: 850
+### maxHealth: 850
+## 1
+### boardIndex: 1
+### name: Duskleaf
+### level: 21
+### health: 260
+### maxHealth: 775
+## 2
+### boardIndex: 2
+### name: Niya
+### level: 39
+### health: 330
+### maxHealth: 980
+## 3
+### boardIndex: 3
+### name: Guardian Kota
+### level: 38
+### health: 647
+### maxHealth: 1920
+## 4
+### boardIndex: 4
+### name: Yira'lya
+### level: 38
+### health: 485
+### maxHealth: 1440
+## 6
+### boardIndex: 6
+### name: Panicked Necroray
+### health: 1370
+## 7
+### boardIndex: 7
+### name: Panicked Necroray
+### health: 1370
+## 9
+### boardIndex: 9
+### name: Panicked Necroray
+### health: 1370
+## 10
+### boardIndex: 10
+### name: Panicked Necroray
+### health: 1370
+## 11
+### boardIndex: 11
+### name: Ancient Necroray
+### health: 4070
+## 12
+### boardIndex: 12
+### name: Panicked Necroray
+### health: 1370
+# combatLog
++
++ Round 1/3:
++
++ Niya applied Invigorating Herbs to Croman.
++ Niya applied Invigorating Herbs to Guardian Kota.
++ Croman meleed Panicked Necroray for 204 damage.
++ Croman cast Crusader Strike at Panicked Necroray for 244 Holy damage.
++ Guardian Kota meleed Panicked Necroray for 172 damage.
++ Guardian Kota cast Flashing Arrows at Panicked Necroray for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Panicked Necroray for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Panicked Necroray for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Ancient Necroray for 154 Physical damage.
++ Yira'lya shot Panicked Necroray for 144 damage.
++ Yira'lya cast Insect Swarm at Panicked Necroray for 57 Nature damage.
++ Yira'lya applied Insect Swarm to Panicked Necroray.
++ Niya shot Panicked Necroray for 196 damage.
++ Niya applied Spiked Burr Trap to Panicked Necroray.
++ Niya's Spiked Burr Trap dealt 78 Nature to Panicked Necroray.
++ Duskleaf shot Panicked Necroray for 93 damage.
++ Duskleaf applied Trickster's Torment to Panicked Necroray.
++ Duskleaf applied Trickster's Torment to Panicked Necroray.
++ Duskleaf applied Trickster's Torment to Ancient Necroray.
++ Duskleaf applied Trickster's Torment to Panicked Necroray.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Panicked Necroray.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Panicked Necroray.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Ancient Necroray.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Panicked Necroray.
++ Ancient Necroray shot Niya for 156 damage.
++ Ancient Necroray cast Heal the Flock on Panicked Necroray for 156 healing.
++ Panicked Necroray meleed Niya for 126 damage.
++ Panicked Necroray cast Panic Attack at Guardian Kota for 252 Physical damage.
++ Panicked Necroray meleed Guardian Kota for 126 damage.
++ Panicked Necroray cast Panic Attack at Guardian Kota for 252 Physical damage.
++ Panicked Necroray meleed Niya for 100 damage.
++ Panicked Necroray killed Niya.
++ Niya removed Invigorating Herbs from Croman.
++ Niya removed Invigorating Herbs from Guardian Kota.
++ Panicked Necroray cast Panic Attack at Duskleaf for 201 Physical damage.
++ Panicked Necroray meleed Guardian Kota for 126 damage.
++ Panicked Necroray killed Guardian Kota.
++ Panicked Necroray cast Panic Attack at Panicked Necroray for 252 Physical damage.
++ Panicked Necroray meleed Yira'lya for 126 damage.
++ Panicked Necroray cast Panic Attack at Panicked Necroray for 252 Physical damage.
++
++ Round 2/3:
++
++ Croman meleed Panicked Necroray for 170 damage.
++ Yira'lya shot Panicked Necroray for 144 damage.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Panicked Necroray.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Panicked Necroray.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Ancient Necroray.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Panicked Necroray.
++ Duskleaf shot Panicked Necroray for 93 damage.
++ Niya's Spiked Burr Trap dealt 78 Nature to Panicked Necroray.
++ Ancient Necroray shot Yira'lya for 156 damage.
++ Panicked Necroray meleed Yira'lya for 126 damage.
++ Panicked Necroray meleed Yira'lya for 126 damage.
++ Panicked Necroray killed Yira'lya.
++ Panicked Necroray meleed Croman for 100 damage.
++ Panicked Necroray meleed Croman for 126 damage.
++ Panicked Necroray meleed Croman for 126 damage.
++
++ Round 3/3:
++
++ Croman meleed Panicked Necroray for 170 damage.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Panicked Necroray.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Panicked Necroray.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Ancient Necroray.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Panicked Necroray.
++ Duskleaf removed Trickster's Torment from Panicked Necroray.
++ Duskleaf removed Trickster's Torment from Panicked Necroray.
++ Duskleaf removed Trickster's Torment from Ancient Necroray.
++ Duskleaf removed Trickster's Torment from Panicked Necroray.
++ Duskleaf shot Panicked Necroray for 93 damage.
++ Yira'lya removed Insect Swarm from Panicked Necroray.
++ Niya's Spiked Burr Trap dealt 78 Nature to Panicked Necroray.
++ Niya removed Spiked Burr Trap from Panicked Necroray.
++ Ancient Necroray shot Croman for 156 damage.
++ Panicked Necroray meleed Croman for 126 damage.
++ Panicked Necroray meleed Croman for 126 damage.
++ Panicked Necroray meleed Croman for 126 damage.
++ Panicked Necroray killed Croman.
++ Panicked Necroray meleed Duskleaf for 126 damage.
++ Panicked Necroray killed Duskleaf.
++ You lost.
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Croman
+### level: 24
+### health: 0
+### maxHealth: 850
+## 1
+### boardIndex: 1
+### name: Duskleaf
+### level: 21
+### health: 0
+### maxHealth: 775
+## 2
+### boardIndex: 2
+### name: Niya
+### level: 39
+### health: 0
+### maxHealth: 980
+## 3
+### boardIndex: 3
+### name: Guardian Kota
+### level: 38
+### health: 0
+### maxHealth: 1920
+## 4
+### boardIndex: 4
+### name: Yira'lya
+### level: 38
+### health: 0
+### maxHealth: 1440
+## 6
+### boardIndex: 6
+### name: Panicked Necroray
+### health: 256
+## 7
+### boardIndex: 7
+### name: Panicked Necroray
+### health: 866
+## 9
+### boardIndex: 9
+### name: Panicked Necroray
+### health: 481
+## 10
+### boardIndex: 10
+### name: Panicked Necroray
+### health: 1261
+## 11
+### boardIndex: 11
+### name: Ancient Necroray
+### health: 3805
+## 12
+### boardIndex: 12
+### name: Panicked Necroray
+### health: 829

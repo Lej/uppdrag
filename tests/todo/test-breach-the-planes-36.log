@@ -1,0 +1,549 @@
+# mission
+## name: Breach the Planes
+## level: 60
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Dreamweaver
+### level: 38
+### health: 821
+### maxHealth: 821
+## 1
+### boardIndex: 1
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 6
+### boardIndex: 6
+### name: Crucible Seeker
+### health: 2150
+## 7
+### boardIndex: 7
+### name: Crucible Seeker
+### health: 2150
+## 9
+### boardIndex: 9
+### name: Mawsworn Interceptor
+### health: 2150
+## 10
+### boardIndex: 10
+### name: Mawsworn Interceptor
+### health: 2150
+## 11
+### boardIndex: 11
+### name: Mawsworn Protector
+### health: 2900
+## 12
+### boardIndex: 12
+### name: Mawsworn Interceptor
+### health: 2150
+# combatLog
++
++ Round 1/12:
++
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Crucible Seeker.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Protector applied Mawsworn Strength to Ardenweald Trapper.
++ Crucible Seeker meleed Ardenweald Trapper for 36 damage.
++ Crucible Seeker cast Maw Wrought Slash at Ardenweald Trapper for 18 Physical damage.
++ Crucible Seeker cast Maw Wrought Slash at Ardenweald Trapper for 18 Physical damage.
++ Crucible Seeker cast Maw Wrought Slash at Ardenweald Trapper for 18 Physical damage.
++ Crucible Seeker meleed Ardenweald Trapper for 36 damage.
++ Crucible Seeker cast Maw Wrought Slash at Ardenweald Trapper for 18 Physical damage.
++ Crucible Seeker cast Maw Wrought Slash at Ardenweald Trapper for 18 Physical damage.
++ Crucible Seeker cast Maw Wrought Slash at Ardenweald Trapper for 18 Physical damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 38 Shadow damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 2/12:
++
++ Ardenweald Trapper meleed Crucible Seeker for 276 damage.
++ Ardenweald Trapper meleed Crucible Seeker for 276 damage.
++ Ardenweald Trapper meleed Crucible Seeker for 276 damage.
++ Ardenweald Trapper meleed Crucible Seeker for 262 damage.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Crucible Seeker meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Crucible Seeker meleed Ardenweald Trapper for 36 damage.
++
++ Round 3/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 276 damage.
++ Ardenweald Trapper killed Crucible Seeker.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Mawsworn Protector removed Mawsworn Strength from Ardenweald Trapper.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Crucible Seeker meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 4/12:
++
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 124 damage.
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Crucible Seeker meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++
++ Round 5/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Crucible Seeker meleed Ardenweald Trapper for 36 damage.
++ Crucible Seeker cast Maw Wrought Slash at Ardenweald Trapper for 18 Physical damage.
++ Crucible Seeker cast Maw Wrought Slash at Ardenweald Trapper for 18 Physical damage.
++ Crucible Seeker cast Maw Wrought Slash at Ardenweald Trapper for 18 Physical damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 6/12:
++
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 124 damage.
++ Ardenweald Trapper meleed Crucible Seeker for 138 damage.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Protector applied Mawsworn Strength to Ardenweald Trapper.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Crucible Seeker meleed Ardenweald Trapper for 36 damage.
++
++ Round 7/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Crucible Seeker.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Protector.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Crucible Seeker.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Protector.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper meleed Crucible Seeker for 276 damage.
++ Ardenweald Trapper killed Crucible Seeker.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Protector.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Protector.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Protector for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Protector.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Protector.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Protector.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Protector.
++ Ardenweald Trapper removed Bramble Trap from Mawsworn Interceptor.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 276 damage.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver killed Mawsworn Interceptor.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Mawsworn Protector meleed Ardenweald Trapper for 180 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 195 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 195 damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 8/12:
++
++ Ardenweald Trapper meleed Mawsworn Protector for 276 damage.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Protector for 276 damage.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 276 damage.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 262 damage.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Interceptor.
++ Ardenweald Trapper applied Bramble Trap to Mawsworn Protector.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Social Butterfly from Ardenweald Trapper.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Mawsworn Protector removed Mawsworn Strength from Ardenweald Trapper.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++
++ Round 9/12:
++
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 138 damage.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 124 damage.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Ardenweald Trapper for 19 Shadow damage.
++ Mawsworn Interceptor cast Thrust of the Maw at Dreamweaver for 19 Shadow damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 10/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 11 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 11 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 11 Nature to Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 124 damage.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver killed Mawsworn Interceptor.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++
++ Round 11/12:
++
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Protector for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 138 damage.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 138 damage.
++ Dreamweaver shot Mawsworn Protector for 288 damage.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver applied Social Butterfly to Ardenweald Trapper.
++ Dreamweaver cast Podtender on Ardenweald Trapper for 288 healing.
++ Dreamweaver applied Podtender to Ardenweald Trapper.
++ Mawsworn Protector meleed Ardenweald Trapper for 36 damage.
++ Mawsworn Protector applied Mawsworn Strength to Ardenweald Trapper.
++ Mawsworn Interceptor meleed Ardenweald Trapper for 39 damage.
++ The Maw applied Wave of Eternal Death to Dreamweaver.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++ The Maw applied Wave of Eternal Death to Ardenweald Trapper.
++
++ Round 12/12:
++
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Protector for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Protector for 276 damage.
++ Ardenweald Trapper's Bramble Trap dealt 24 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 24 Nature to Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 262 damage.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Interceptor.
++ Ardenweald Trapper's Bramble Trap dealt 26 Nature to Mawsworn Protector.
++ Ardenweald Trapper killed Mawsworn Protector.
++ Ardenweald Trapper meleed Mawsworn Interceptor for 276 damage.
++ Dreamweaver removed Podtender from Ardenweald Trapper.
++ Dreamweaver shot Mawsworn Interceptor for 288 damage.
++ Dreamweaver killed Mawsworn Interceptor.
++ You won!
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Dreamweaver
+### level: 38
+### health: 669
+### maxHealth: 821
+## 1
+### boardIndex: 1
+### name: Ardenweald Trapper
+### level: 36
+### health: 1323
+### maxHealth: 1380
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 36
+### health: 948
+### maxHealth: 1380
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 838
+### maxHealth: 1380
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 36
+### health: 1326
+### maxHealth: 1380
+## 6
+### boardIndex: 6
+### name: Crucible Seeker
+### health: 0
+## 7
+### boardIndex: 7
+### name: Crucible Seeker
+### health: 0
+## 9
+### boardIndex: 9
+### name: Mawsworn Interceptor
+### health: 0
+## 10
+### boardIndex: 10
+### name: Mawsworn Interceptor
+### health: 0
+## 11
+### boardIndex: 11
+### name: Mawsworn Protector
+### health: 0
+## 12
+### boardIndex: 12
+### name: Mawsworn Interceptor
+### health: 0

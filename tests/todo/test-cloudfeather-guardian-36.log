@@ -1,0 +1,203 @@
+# mission
+## name: Cloudfeather Guardian
+## level: 39
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Blisswing
+### level: 33
+### health: 4
+### maxHealth: 645
+## 1
+### boardIndex: 1
+### name: Master Sha'lor
+### level: 28
+### health: 4
+### maxHealth: 760
+## 2
+### boardIndex: 2
+### name: Te'zan
+### level: 36
+### health: 1150
+### maxHealth: 1150
+## 3
+### boardIndex: 3
+### name: Duskleaf
+### level: 21
+### health: 775
+### maxHealth: 775
+## 4
+### boardIndex: 4
+### name: Croman
+### level: 23
+### health: 825
+### maxHealth: 825
+## 5
+### boardIndex: 5
+### name: Starved Etherwyrm
+### health: 1585
+## 8
+### boardIndex: 8
+### name: Starved Etherwyrm
+### health: 1585
+## 10
+### boardIndex: 10
+### name: Cloudfeather Guardian
+### health: 6585
+# combatLog
++
++ Round 1/9:
++
++ Te'zan meleed Starved Etherwyrm for 230 damage.
++ Te'zan cast Onslaught at Starved Etherwyrm for 322 Stormstrike damage.
++ Te'zan cast Onslaught at Starved Etherwyrm for 322 Stormstrike damage.
++ Croman meleed Starved Etherwyrm for 165 damage.
++ Croman cast Crusader Strike at Starved Etherwyrm for 198 Holy damage.
++ Duskleaf shot Starved Etherwyrm for 93 damage.
++ Duskleaf applied Trickster's Torment to Cloudfeather Guardian.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Cloudfeather Guardian.
++ Blisswing meleed Starved Etherwyrm for 215 damage.
++ Blisswing applied Dazzledust to Starved Etherwyrm.
++ Master Sha'lor shot Starved Etherwyrm for 152 damage.
++ Master Sha'lor cast Anima Bolt at Starved Etherwyrm for 182 Arcane damage.
++ Cloudfeather Guardian meleed Te'zan for 128 damage.
++ Cloudfeather Guardian cast Quills at Te'zan for 320 Physical damage.
++ Cloudfeather Guardian cast Quills at Duskleaf for 320 Physical damage.
++ Cloudfeather Guardian cast Quills at Croman for 320 Physical damage.
++ Starved Etherwyrm meleed Te'zan for 138 damage.
++ Starved Etherwyrm cast Tail lash at Te'zan for 41 Arcane damage.
++ Starved Etherwyrm meleed Croman for 137 damage.
++ Starved Etherwyrm cast Tail lash at Croman for 40 Arcane damage.
++
++ Round 2/9:
++
++ Te'zan meleed Starved Etherwyrm for 230 damage.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Cloudfeather Guardian.
++ Duskleaf shot Starved Etherwyrm for 93 damage.
++ Croman meleed Starved Etherwyrm for 165 damage.
++ Blisswing meleed Starved Etherwyrm for 215 damage.
++ Blisswing killed Starved Etherwyrm.
++ Master Sha'lor shot Cloudfeather Guardian for 152 damage.
++ Cloudfeather Guardian meleed Te'zan for 128 damage.
++ Starved Etherwyrm meleed Croman for 137 damage.
++
++ Round 3/9:
++
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Cloudfeather Guardian.
++ Duskleaf removed Trickster's Torment from Cloudfeather Guardian.
++ Duskleaf shot Starved Etherwyrm for 93 damage.
++ Te'zan meleed Cloudfeather Guardian for 230 damage.
++ Croman meleed Starved Etherwyrm for 165 damage.
++ Blisswing meleed Cloudfeather Guardian for 215 damage.
++ Master Sha'lor shot Cloudfeather Guardian for 152 damage.
++ Master Sha'lor cast Anima Bolt at Cloudfeather Guardian for 182 Arcane damage.
++ Cloudfeather Guardian meleed Te'zan for 128 damage.
++ Starved Etherwyrm meleed Croman for 137 damage.
++
++ Round 4/9:
++
++ Duskleaf shot Starved Etherwyrm for 93 damage.
++ Duskleaf applied Trickster's Torment to Cloudfeather Guardian.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Cloudfeather Guardian.
++ Te'zan meleed Cloudfeather Guardian for 230 damage.
++ Croman meleed Starved Etherwyrm for 165 damage.
++ Blisswing removed Dazzledust from Starved Etherwyrm.
++ Blisswing meleed Cloudfeather Guardian for 215 damage.
++ Master Sha'lor shot Cloudfeather Guardian for 152 damage.
++ Cloudfeather Guardian meleed Te'zan for 128 damage.
++ Starved Etherwyrm meleed Croman for 138 damage.
++ Starved Etherwyrm killed Croman.
++ Starved Etherwyrm cast Tail lash at Master Sha'lor for 41 Arcane damage.
++ Starved Etherwyrm cast Tail lash at Duskleaf for 41 Arcane damage.
++ Starved Etherwyrm killed Master Sha'lor.
++
++ Round 5/9:
++
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Cloudfeather Guardian.
++ Duskleaf shot Starved Etherwyrm for 93 damage.
++ Te'zan meleed Cloudfeather Guardian for 230 damage.
++ Te'zan cast Onslaught at Starved Etherwyrm for 322 Stormstrike damage.
++ Te'zan killed Starved Etherwyrm.
++ Blisswing meleed Cloudfeather Guardian for 215 damage.
++ Cloudfeather Guardian meleed Te'zan for 128 damage.
++
++ Round 6/9:
++
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Cloudfeather Guardian.
++ Duskleaf removed Trickster's Torment from Cloudfeather Guardian.
++ Duskleaf shot Cloudfeather Guardian for 93 damage.
++ Te'zan meleed Cloudfeather Guardian for 230 damage.
++ Blisswing meleed Cloudfeather Guardian for 215 damage.
++ Blisswing applied Dazzledust to Cloudfeather Guardian.
++ Cloudfeather Guardian meleed Te'zan for 127 damage.
++ Cloudfeather Guardian killed Te'zan.
++
++ Round 7/9:
++
++ Duskleaf shot Cloudfeather Guardian for 93 damage.
++ Duskleaf applied Trickster's Torment to Cloudfeather Guardian.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Cloudfeather Guardian.
++ Blisswing meleed Cloudfeather Guardian for 215 damage.
++ Cloudfeather Guardian meleed Duskleaf for 127 damage.
++
++ Round 8/9:
++
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Cloudfeather Guardian.
++ Duskleaf shot Cloudfeather Guardian for 93 damage.
++ Blisswing meleed Cloudfeather Guardian for 215 damage.
++ Cloudfeather Guardian meleed Duskleaf for 127 damage.
++ Cloudfeather Guardian cast Quills at Duskleaf for 319 Physical damage.
++ Cloudfeather Guardian killed Duskleaf.
++
++ Round 9/9:
++
++ Blisswing removed Dazzledust from Cloudfeather Guardian.
++ Blisswing meleed Cloudfeather Guardian for 215 damage.
++ Duskleaf's Trickster's Torment dealt 37 Shadow to Cloudfeather Guardian.
++ Duskleaf removed Trickster's Torment from Cloudfeather Guardian.
++ Cloudfeather Guardian meleed Blisswing for 128 damage.
++ Cloudfeather Guardian killed Blisswing.
++ You lost.
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Blisswing
+### level: 33
+### health: 0
+### maxHealth: 645
+## 1
+### boardIndex: 1
+### name: Master Sha'lor
+### level: 28
+### health: 0
+### maxHealth: 760
+## 2
+### boardIndex: 2
+### name: Te'zan
+### level: 36
+### health: 0
+### maxHealth: 1150
+## 3
+### boardIndex: 3
+### name: Duskleaf
+### level: 21
+### health: 0
+### maxHealth: 775
+## 4
+### boardIndex: 4
+### name: Croman
+### level: 23
+### health: 0
+### maxHealth: 825
+## 5
+### boardIndex: 5
+### name: Starved Etherwyrm
+### health: 0
+## 8
+### boardIndex: 8
+### name: Starved Etherwyrm
+### health: 0
+## 10
+### boardIndex: 10
+### name: Cloudfeather Guardian
+### health: 2910

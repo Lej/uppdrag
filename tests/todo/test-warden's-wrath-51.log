@@ -1,0 +1,223 @@
+# mission
+## name: Warden's Wrath
+## level: 51
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Meatball
+### level: 37
+### health: 1880
+### maxHealth: 1880
+## 1
+### boardIndex: 1
+### name: Chalkyth
+### level: 36
+### health: 299
+### maxHealth: 1610
+## 2
+### boardIndex: 2
+### name: Niya
+### level: 39
+### health: 980
+### maxHealth: 980
+## 3
+### boardIndex: 3
+### name: Guardian Kota
+### level: 38
+### health: 357
+### maxHealth: 1920
+## 4
+### boardIndex: 4
+### name: Yira'lya
+### level: 38
+### health: 8
+### maxHealth: 1440
+## 5
+### boardIndex: 5
+### name: Necrotic Ritualist
+### health: 1565
+## 6
+### boardIndex: 6
+### name: Necrotic Ritualist
+### health: 1565
+## 7
+### boardIndex: 7
+### name: Necrotic Ritualist
+### health: 1565
+## 8
+### boardIndex: 8
+### name: Necrotic Ritualist
+### health: 1565
+## 9
+### boardIndex: 9
+### name: Necrotic Ritualist
+### health: 1565
+## 10
+### boardIndex: 10
+### name: Necrotic Ritualist
+### health: 1565
+## 11
+### boardIndex: 11
+### name: Warden of Rituals
+### health: 2965
+## 12
+### boardIndex: 12
+### name: Necrotic Ritualist
+### health: 1565
+# combatLog
++
++ Round 1/3:
++
++ Niya applied Invigorating Herbs to Meatball.
++ Niya applied Invigorating Herbs to Guardian Kota.
++ Meatball meleed Necrotic Ritualist for 169 damage.
++ Niya shot Necrotic Ritualist for 196 damage.
++ Niya applied Spiked Burr Trap to Necrotic Ritualist.
++ Niya's Spiked Burr Trap dealt 78 Nature to Necrotic Ritualist.
++ Guardian Kota meleed Necrotic Ritualist for 172 damage.
++ Guardian Kota cast Flashing Arrows at Necrotic Ritualist for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Necrotic Ritualist for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Necrotic Ritualist for 154 Physical damage.
++ Guardian Kota cast Flashing Arrows at Warden of Rituals for 154 Physical damage.
++ Chalkyth meleed Necrotic Ritualist for 184 damage.
++ Chalkyth applied Icespore Spear to Necrotic Ritualist.
++ Chalkyth applied Icespore Spear to Necrotic Ritualist.
++ Chalkyth applied Icespore Spear to Necrotic Ritualist.
++ Chalkyth applied Icespore Spear to Necrotic Ritualist.
++ Yira'lya shot Necrotic Ritualist for 144 damage.
++ Yira'lya cast Insect Swarm at Necrotic Ritualist for 57 Nature damage.
++ Yira'lya applied Insect Swarm to Necrotic Ritualist.
++ Warden of Rituals shot Meatball for 152 damage.
++ Warden of Rituals cast Necrotic Lash at Niya for 152 Shadow damage.
++ Warden of Rituals cast Necrotic Lash at Meatball for 152 Shadow damage.
++ Necrotic Ritualist meleed Niya for 142 damage.
++ Necrotic Ritualist applied Ritual Fervor to Necrotic Ritualist.
++ Necrotic Ritualist meleed Niya for 142 damage.
++ Necrotic Ritualist applied Ritual Fervor to Necrotic Ritualist.
++ Necrotic Ritualist meleed Guardian Kota for 142 damage.
++ Necrotic Ritualist applied Ritual Fervor to Necrotic Ritualist.
++ Necrotic Ritualist meleed Yira'lya for 142 damage.
++ Necrotic Ritualist killed Yira'lya.
++ Necrotic Ritualist applied Ritual Fervor to Necrotic Ritualist.
++ Necrotic Ritualist meleed Niya for 113 damage.
++ Necrotic Ritualist applied Ritual Fervor to Necrotic Ritualist.
++ Necrotic Ritualist meleed Niya for 142 damage.
++ Necrotic Ritualist applied Ritual Fervor to Necrotic Ritualist.
++ Necrotic Ritualist meleed Guardian Kota for 568 damage.
++ Necrotic Ritualist killed Guardian Kota.
++ Necrotic Ritualist applied Ritual Fervor to Necrotic Ritualist.
++
++ Round 2/3:
++
++ Meatball meleed Necrotic Ritualist for 169 damage.
++ Meatball applied Meatball Mad! to Meatball.
++ Meatball applied Meatball Mad! to Meatball.
++ Meatball cast Meatball Mad! at Necrotic Ritualist for 388 Physical damage.
++ Chalkyth's Icespore Spear dealt 55 Frost to Necrotic Ritualist.
++ Chalkyth's Icespore Spear dealt 55 Frost to Necrotic Ritualist.
++ Chalkyth's Icespore Spear dealt 55 Frost to Necrotic Ritualist.
++ Chalkyth's Icespore Spear dealt 55 Frost to Necrotic Ritualist.
++ Chalkyth meleed Necrotic Ritualist for 184 damage.
++ Niya's Spiked Burr Trap dealt 78 Nature to Necrotic Ritualist.
++ Niya shot Necrotic Ritualist for 196 damage.
++ Warden of Rituals shot Meatball for 194 damage.
++ Necrotic Ritualist removed Ritual Fervor from Necrotic Ritualist.
++ Necrotic Ritualist meleed Niya for 142 damage.
++ Necrotic Ritualist removed Ritual Fervor from Necrotic Ritualist.
++ Necrotic Ritualist meleed Chalkyth for 142 damage.
++ Necrotic Ritualist removed Ritual Fervor from Necrotic Ritualist.
++ Necrotic Ritualist meleed Niya for 142 damage.
++ Necrotic Ritualist removed Ritual Fervor from Necrotic Ritualist.
++ Necrotic Ritualist meleed Niya for 142 damage.
++ Necrotic Ritualist killed Niya.
++ Niya removed Invigorating Herbs from Meatball.
++ Necrotic Ritualist removed Ritual Fervor from Necrotic Ritualist.
++ Necrotic Ritualist meleed Meatball for 326 damage.
++ Necrotic Ritualist removed Ritual Fervor from Necrotic Ritualist.
++ Necrotic Ritualist meleed Meatball for 155 damage.
++ Necrotic Ritualist removed Ritual Fervor from Necrotic Ritualist.
++ Necrotic Ritualist meleed Meatball for 184 damage.
++
++ Round 3/3:
++
++ Meatball meleed Necrotic Ritualist for 423 damage.
++ Chalkyth's Icespore Spear dealt 55 Frost to Necrotic Ritualist.
++ Chalkyth's Icespore Spear dealt 55 Frost to Necrotic Ritualist.
++ Chalkyth's Icespore Spear dealt 55 Frost to Necrotic Ritualist.
++ Chalkyth's Icespore Spear dealt 55 Frost to Necrotic Ritualist.
++ Chalkyth meleed Necrotic Ritualist for 184 damage.
++ Yira'lya removed Insect Swarm from Necrotic Ritualist.
++ Niya's Spiked Burr Trap dealt 78 Nature to Necrotic Ritualist.
++ Niya removed Spiked Burr Trap from Necrotic Ritualist.
++ Warden of Rituals shot Meatball for 194 damage.
++ Necrotic Ritualist meleed Meatball for 184 damage.
++ Necrotic Ritualist meleed Chalkyth for 142 damage.
++ Necrotic Ritualist meleed Meatball for 184 damage.
++ Necrotic Ritualist meleed Meatball for 184 damage.
++ Necrotic Ritualist killed Meatball.
++ Necrotic Ritualist meleed Chalkyth for 142 damage.
++ Necrotic Ritualist killed Chalkyth.
++ You lost.
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Meatball
+### level: 37
+### health: 0
+### maxHealth: 1880
+## 1
+### boardIndex: 1
+### name: Chalkyth
+### level: 36
+### health: 0
+### maxHealth: 1610
+## 2
+### boardIndex: 2
+### name: Niya
+### level: 39
+### health: 0
+### maxHealth: 980
+## 3
+### boardIndex: 3
+### name: Guardian Kota
+### level: 38
+### health: 0
+### maxHealth: 1920
+## 4
+### boardIndex: 4
+### name: Yira'lya
+### level: 38
+### health: 0
+### maxHealth: 1440
+## 5
+### boardIndex: 5
+### name: Necrotic Ritualist
+### health: 306
+## 6
+### boardIndex: 6
+### name: Necrotic Ritualist
+### health: 577
+## 7
+### boardIndex: 7
+### name: Necrotic Ritualist
+### health: 1455
+## 8
+### boardIndex: 8
+### name: Necrotic Ritualist
+### health: 1455
+## 9
+### boardIndex: 9
+### name: Necrotic Ritualist
+### health: 1210
+## 10
+### boardIndex: 10
+### name: Necrotic Ritualist
+### health: 1411
+## 11
+### boardIndex: 11
+### name: Warden of Rituals
+### health: 2811
+## 12
+### boardIndex: 12
+### name: Necrotic Ritualist
+### health: 939

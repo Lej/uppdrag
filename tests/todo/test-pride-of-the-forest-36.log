@@ -1,0 +1,785 @@
+# mission
+## name: Pride of the Forest
+## level: 50
+# unitsPre
+## 0
+### boardIndex: 0
+### name: Hunt-Captain Korayn
+### level: 1
+### health: 385
+### maxHealth: 385
+## 1
+### boardIndex: 1
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 36
+### health: 1380
+### maxHealth: 1380
+## 5
+### boardIndex: 5
+### name: Aggressive Runestag
+### health: 1750
+## 6
+### boardIndex: 6
+### name: Mire Runestag
+### health: 2250
+## 7
+### boardIndex: 7
+### name: Mire Runestag
+### health: 2250
+## 8
+### boardIndex: 8
+### name: Aggressive Runestag
+### health: 1750
+## 10
+### boardIndex: 10
+### name: Majestic Runestag
+### health: 4750
+## 11
+### boardIndex: 11
+### name: Majestic Runestag
+### health: 4750
+# combatLog
++
++ Round 1/24:
++
++ Hunt-Captain Korayn applied Hold the Line to Hunt-Captain Korayn.
++ Hunt-Captain Korayn applied Hold the Line to Ardenweald Trapper.
++ Hunt-Captain Korayn applied Hold the Line to Ardenweald Trapper.
++ Hunt-Captain Korayn applied Hold the Line to Ardenweald Trapper.
++ Hunt-Captain Korayn applied Hold the Line to Ardenweald Trapper.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Hunt-Captain Korayn meleed Aggressive Runestag for 44 damage.
++ Hunt-Captain Korayn cast Face Your Foes at Aggressive Runestag for 17 Physical damage.
++ Hunt-Captain Korayn cast Face Your Foes at Mire Runestag for 17 Physical damage.
++ Majestic Runestag shot Ardenweald Trapper for 27 damage.
++ Majestic Runestag cast Arcane Antlers at Hunt-Captain Korayn for 40 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 40 Arcane damage.
++ Majestic Runestag shot Hunt-Captain Korayn for 27 damage.
++ Majestic Runestag cast Arcane Antlers at Hunt-Captain Korayn for 40 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 40 Arcane damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++ Aggressive Runestag cast Kick at Ardenweald Trapper for 16 Nature damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++ Aggressive Runestag cast Kick at Ardenweald Trapper for 16 Nature damage.
++
++ Round 2/24:
++
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Hunt-Captain Korayn meleed Aggressive Runestag for 44 damage.
++ Majestic Runestag shot Ardenweald Trapper for 27 damage.
++ Majestic Runestag shot Hunt-Captain Korayn for 27 damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++
++ Round 3/24:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Hunt-Captain Korayn meleed Aggressive Runestag for 44 damage.
++ Majestic Runestag shot Ardenweald Trapper for 27 damage.
++ Majestic Runestag shot Hunt-Captain Korayn for 27 damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++
++ Round 4/24:
++
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Hunt-Captain Korayn meleed Aggressive Runestag for 44 damage.
++ Hunt-Captain Korayn cast Face Your Foes at Aggressive Runestag for 17 Physical damage.
++ Hunt-Captain Korayn cast Face Your Foes at Mire Runestag for 17 Physical damage.
++ Majestic Runestag shot Ardenweald Trapper for 27 damage.
++ Majestic Runestag shot Hunt-Captain Korayn for 27 damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++
++ Round 5/24:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Hunt-Captain Korayn meleed Aggressive Runestag for 44 damage.
++ Majestic Runestag shot Ardenweald Trapper for 27 damage.
++ Majestic Runestag cast Arcane Antlers at Hunt-Captain Korayn for 40 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 40 Arcane damage.
++ Majestic Runestag shot Hunt-Captain Korayn for 27 damage.
++ Majestic Runestag cast Arcane Antlers at Hunt-Captain Korayn for 40 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 40 Arcane damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++ Aggressive Runestag cast Kick at Ardenweald Trapper for 16 Nature damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 6 Nature damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++ Aggressive Runestag cast Kick at Ardenweald Trapper for 16 Nature damage.
++
++ Round 6/24:
++
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Hunt-Captain Korayn meleed Aggressive Runestag for 44 damage.
++ Majestic Runestag shot Ardenweald Trapper for 27 damage.
++ Majestic Runestag shot Hunt-Captain Korayn for 27 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Mire Runestag meleed Ardenweald Trapper for 21 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 27 damage.
++
++ Round 7/24:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Mire Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Hunt-Captain Korayn meleed Aggressive Runestag for 44 damage.
++ Hunt-Captain Korayn cast Face Your Foes at Aggressive Runestag for 17 Physical damage.
++ Hunt-Captain Korayn cast Face Your Foes at Mire Runestag for 17 Physical damage.
++ Majestic Runestag shot Ardenweald Trapper for 135 damage.
++ Majestic Runestag shot Hunt-Captain Korayn for 135 damage.
++ Majestic Runestag killed Hunt-Captain Korayn.
++ Hunt-Captain Korayn removed Hold the Line from Ardenweald Trapper.
++ Hunt-Captain Korayn removed Hold the Line from Ardenweald Trapper.
++ Hunt-Captain Korayn removed Hold the Line from Ardenweald Trapper.
++ Hunt-Captain Korayn removed Hold the Line from Ardenweald Trapper.
++ Aggressive Runestag meleed Ardenweald Trapper for 150 damage.
++ Mire Runestag meleed Ardenweald Trapper for 120 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 150 damage.
++ Mire Runestag meleed Ardenweald Trapper for 120 damage.
++
++ Round 8/24:
++
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper killed Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Mire Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++ Mire Runestag meleed Ardenweald Trapper for 24 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++
++ Round 9/24:
++
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper killed Aggressive Runestag.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 45 Arcane damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 45 Arcane damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++ Aggressive Runestag cast Kick at Ardenweald Trapper for 18 Nature damage.
++ Mire Runestag meleed Ardenweald Trapper for 24 damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 7 Nature damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 7 Nature damage.
++ Mire Runestag cast Gore at Ardenweald Trapper for 7 Nature damage.
++
++ Round 10/24:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Mire Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Mire Runestag for 138 damage.
++ Ardenweald Trapper killed Mire Runestag.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++
++ Round 11/24:
++
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++
++ Round 12/24:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++
++ Round 13/24:
++
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 45 Arcane damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 45 Arcane damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++ Aggressive Runestag cast Kick at Ardenweald Trapper for 18 Nature damage.
++
++ Round 14/24:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Aggressive Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Majestic Runestag shot Ardenweald Trapper for 150 damage.
++ Majestic Runestag shot Ardenweald Trapper for 150 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 150 damage.
++
++ Round 15/24:
++
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Aggressive Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++
++ Round 16/24:
++
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag killed Ardenweald Trapper.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++
++ Round 17/24:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 45 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 45 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 45 Arcane damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 45 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 45 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 45 Arcane damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++ Aggressive Runestag cast Kick at Ardenweald Trapper for 18 Nature damage.
++
++ Round 18/24:
++
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++
++ Round 19/24:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Aggressive Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Aggressive Runestag meleed Ardenweald Trapper for 30 damage.
++
++ Round 20/24:
++
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper meleed Aggressive Runestag for 138 damage.
++ Ardenweald Trapper killed Aggressive Runestag.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++ Majestic Runestag shot Ardenweald Trapper for 30 damage.
++
++ Round 21/24:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Ardenweald Trapper removed Bramble Trap from Majestic Runestag.
++ Majestic Runestag shot Ardenweald Trapper for 150 damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 225 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 225 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 225 Arcane damage.
++ Majestic Runestag shot Ardenweald Trapper for 150 damage.
++ Majestic Runestag killed Ardenweald Trapper.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 225 Arcane damage.
++ Majestic Runestag cast Arcane Antlers at Ardenweald Trapper for 225 Arcane damage.
++ Majestic Runestag killed Ardenweald Trapper.
++
++ Round 22/24:
++
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Ardenweald Trapper applied Bramble Trap to Majestic Runestag.
++ Majestic Runestag shot Ardenweald Trapper for 120 damage.
++ Majestic Runestag shot Ardenweald Trapper for 120 damage.
++
++ Round 23/24:
++
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Majestic Runestag shot Ardenweald Trapper for 120 damage.
++ Majestic Runestag shot Ardenweald Trapper for 120 damage.
++
++ Round 24/24:
++
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper's Bramble Trap dealt 13 Nature to Majestic Runestag.
++ Ardenweald Trapper meleed Majestic Runestag for 138 damage.
++ Majestic Runestag shot Ardenweald Trapper for 120 damage.
++ Majestic Runestag killed Ardenweald Trapper.
++ You lost.
+# unitsPost
+## 0
+### boardIndex: 0
+### name: Hunt-Captain Korayn
+### level: 1
+### health: 0
+### maxHealth: 385
+## 1
+### boardIndex: 1
+### name: Ardenweald Trapper
+### level: 36
+### health: 0
+### maxHealth: 1380
+## 2
+### boardIndex: 2
+### name: Ardenweald Trapper
+### level: 36
+### health: 0
+### maxHealth: 1380
+## 3
+### boardIndex: 3
+### name: Ardenweald Trapper
+### level: 36
+### health: 0
+### maxHealth: 1380
+## 4
+### boardIndex: 4
+### name: Ardenweald Trapper
+### level: 36
+### health: 0
+### maxHealth: 1380
+## 5
+### boardIndex: 5
+### name: Aggressive Runestag
+### health: 0
+## 6
+### boardIndex: 6
+### name: Mire Runestag
+### health: 0
+## 7
+### boardIndex: 7
+### name: Mire Runestag
+### health: 0
+## 8
+### boardIndex: 8
+### name: Aggressive Runestag
+### health: 0
+## 10
+### boardIndex: 10
+### name: Majestic Runestag
+### health: 681
+## 11
+### boardIndex: 11
+### name: Majestic Runestag
+### health: 3303

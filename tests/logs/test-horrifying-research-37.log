@@ -1,47 +1,48 @@
 # mission
 ## name: Horrifying Research
 ## level: 37
-# unitsPre
-## 0
-### index: 0
-### name: Ardenweald Trapper
-### level: 34
-### health: 1320
-## 1
-### index: 1
-### name: Ardenweald Trapper
-### level: 34
-### health: 1320
-## 2
-### index: 2
-### name: Ardenweald Trapper
-### level: 34
-### health: 1320
-## 3
-### index: 3
-### name: Croman
-### level: 16
-### health: 650
-## 4
-### index: 4
-### name: Ardenweald Trapper
-### level: 34
-### health: 1320
-## 5
-### index: 5
-### name: Tempted Scholar
-### health: 2240## 8
-### index: 8
-### name: Tempted Scholar
-### health: 2240
-## 10
-### index: 10
-### name: Deviant Scholar
-### health: 1940
-## 11
-### index: 11
-### name: Deviant Scholar
-### health: 1940
+# pre
+## units
+### 0
+#### index: 0
+#### name: Ardenweald Trapper
+#### level: 34
+#### health: 1320
+### 1
+#### index: 1
+#### name: Ardenweald Trapper
+#### level: 34
+#### health: 1320
+### 2
+#### index: 2
+#### name: Ardenweald Trapper
+#### level: 34
+#### health: 1320
+### 3
+#### index: 3
+#### name: Croman
+#### level: 16
+#### health: 650
+### 4
+#### index: 4
+#### name: Ardenweald Trapper
+#### level: 34
+#### health: 1320
+### 5
+#### index: 5
+#### name: Tempted Scholar
+#### health: 2240## 8
+#### index: 8
+#### name: Tempted Scholar
+#### health: 2240
+### 10
+#### index: 10
+#### name: Deviant Scholar
+#### health: 1940
+### 11
+#### index: 11
+#### name: Deviant Scholar
+#### health: 1940
 # combatLog
 +
 + Round 1/12:
@@ -345,45 +346,46 @@
 + Ardenweald Trapper meleed Tempted Scholar for 132 damage.
 + Ardenweald Trapper killed Tempted Scholar.
 + You won!
-# unitsPost
-## 0
-### index: 0
-### name: Ardenweald Trapper
-### level: 34
-### health: 1180
-## 1
-### index: 1
-### name: Ardenweald Trapper
-### level: 34
-### health: 1320
-## 2
-### index: 2
-### name: Ardenweald Trapper
-### level: 34
-### health: 482
-## 3
-### index: 3
-### name: Croman
-### level: 16
-### health: 578
-## 4
-### index: 4
-### name: Ardenweald Trapper
-### level: 34
-### health: 762
-## 5
-### index: 5
-### name: Tempted Scholar
-### health: 0
-## 8
-### index: 8
-### name: Tempted Scholar
-### health: 0
-## 10
-### index: 10
-### name: Deviant Scholar
-### health: 0
-## 11
-### index: 11
-### name: Deviant Scholar
-### health: 0
+# post
+## units
+### 0
+#### index: 0
+#### name: Ardenweald Trapper
+#### level: 34
+#### health: 1180
+### 1
+#### index: 1
+#### name: Ardenweald Trapper
+#### level: 34
+#### health: 1320
+### 2
+#### index: 2
+#### name: Ardenweald Trapper
+#### level: 34
+#### health: 482
+### 3
+#### index: 3
+#### name: Croman
+#### level: 16
+#### health: 578
+### 4
+#### index: 4
+#### name: Ardenweald Trapper
+#### level: 34
+#### health: 762
+### 5
+#### index: 5
+#### name: Tempted Scholar
+#### health: 0
+### 8
+#### index: 8
+#### name: Tempted Scholar
+#### health: 0
+### 10
+#### index: 10
+#### name: Deviant Scholar
+#### health: 0
+### 11
+#### index: 11
+#### name: Deviant Scholar
+#### health: 0
